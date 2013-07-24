@@ -1,0 +1,262 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+normal_takamorisan:
+  id: 1
+  name: 高森藍子
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name:
+  rarity: normal
+  level_max: 20
+  love_max: 20
+  cost: 2
+  transfer_money: 250
+  min_atk: 240
+  min_def: 160
+  max_atk: 630
+  max_def: 420
+
+normal_takamorisan_plus:
+  id: 2
+  name: 高森藍子+
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name:
+  rarity: normal
+  level_max: 30
+  love_max: 100
+  cost: 2
+  transfer_money: 375
+  min_atk: 288
+  min_def: 192
+  max_atk: 954
+  max_def: 636
+
+valemorisan:
+  id: 3
+  name: "[バレンタイン] 高森藍子"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name:
+  rarity: normal
+  level_max: 20
+  love_max: 20
+  cost: 10
+  transfer_money: 650
+  min_atk: 840
+  min_def: 1360
+  max_atk: 2205
+  max_def: 3570
+
+valemorisan_plus:
+  id: 4
+  name: "[バレンタイン] 高森藍子+"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name:
+  rarity: normal
+  level_max: 30
+  love_max: 100
+  cost: 10
+  transfer_money: 975
+  min_atk: 1008
+  min_def: 1632
+  max_atk: 3340
+  max_def: 5406
+
+funwari_girl:
+  id: 5
+  name: "[ふんわりガール] 高森藍子"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: ポジティブシンキング (パッションタイプの攻 中アップ)
+  rarity: normal
+  level_max: 40
+  love_max: 30
+  cost: 12
+  transfer_money: 3100
+  min_atk: 2080
+  min_def: 1920
+  max_atk: 5460
+  max_def: 5040
+
+funwari_girl_plus:
+  id: 6
+  name: "[ふんわりガール] 高森藍子+"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: ポジティブシンキング (パッションタイプの攻 中アップ)
+  rarity: normal
+  level_max: 50
+  love_max: 150
+  cost: 12
+  transfer_money: 4650
+  min_atk: 2495
+  min_def: 2304
+  max_atk: 8268
+  max_def: 7632
+
+anniversary_yellow:
+  id: 7
+  name: "[アニバーサリーイエロー] 高森藍子"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: 想い出スマイル (パッションタイプの守 小アップ)
+  rarity: normal
+  level_max: 40
+  love_max: 30
+  cost: 10
+  transfer_money: 3000
+  min_atk: 1260
+  min_def: 1800
+  max_atk: 3308
+  max_def: 4725
+
+anniversary_yellow_plus:
+  id: 8
+  name: "[アニバーサリーイエロー] 高森藍子+"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: 想い出スマイル (パッションタイプの守 小アップ)
+  rarity: normal
+  level_max: 50
+  love_max: 150
+  cost: 10
+  transfer_money: 4500
+  min_atk: 1512
+  min_def: 2160
+  max_atk: 5009
+  max_def: 7156
+
+yurufuwa:
+  id: 9
+  name: "[ゆるふわ乙女] 高森藍子"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: ナチュラルスマイル (キュート、パッションタイプの守 ランダムで大〜特大アップ)
+  rarity: normal
+  level_max: 60
+  love_max: 40
+  cost: 17
+  transfer_money: 10850
+  min_atk: 4340
+  min_def: 3160
+  max_atk: 11393
+  max_def: 8295
+
+yurufuwa_plus:
+  id: 10
+  name: "[ゆるふわ乙女] 高森藍子+"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: ナチュラルスマイル (キュート、パッションタイプの守 ランダムで特大〜極大アップ)
+  rarity: normal
+  level_max: 70
+  love_max: 300
+  cost: 17
+  transfer_money: 16275
+  min_atk: 5028
+  min_def: 3792
+  max_atk: 17253
+  max_def: 12562
+

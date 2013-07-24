@@ -5,3 +5,16 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+data1 = YAML.load_file('db/idols.yml')
+data2 = YAML.load_file('db/words.yml')
+
+data1.each.with_index do |value, index|
+  idol = Idol.new(value[1])
+  data2.each do |word_data|
+    if word_data[1]['idol_id'] == index + 1
+      idol.words << Word.new(word_data[1])
+    end
+  end
+  idol.save
+end
