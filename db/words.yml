@@ -1780,3 +1780,18 @@ yurufuwa_p_work_5:
   text: ○○さんが笑顔だと、私まで笑顔になっちゃいます♪
   tags: [yurufuwa, plus, work]
 
+1st_birthday_normal:
+  idol_id: 1
+  text: こうして○○さんに誕生日を祝ってもらえるなんて、なによりです。おだやかで...暖かいお日様に包まれてるみたい
+  tags: [birthday]
+
+1st_birthday_levelmax:
+  idol_id: 1
+  text: お祝いされる小さな幸せも...ステージで歌う大きな幸せも...○○さんは両方くれました。私がアイドルでいる理由...ですね
+  tags: [birthday]
+
+1st_birthday_lovemax:
+  idol_id: 1
+  text: 私これからも、ちょっとだけマイペースかもしれませんけど...ずっと○○さんに祝ってもらえるような、そんなアイドルに...
+  tags: [birthday]
+
