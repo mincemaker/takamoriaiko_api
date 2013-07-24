@@ -26,4 +26,8 @@ class Idol
   field :min_def, type: Integer
   field :max_atk, type: Integer
   field :max_def, type: Integer
+
+  def three_size
+    "#{bust}/#{waist}/#{hip}"
+  end
 end
