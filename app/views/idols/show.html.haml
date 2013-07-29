@@ -1,0 +1,16 @@
+%h1 Idols#show
+
+%table
+  %tr
+    %th name
+    %td= @idol.name
+  %tr
+    %th skill
+    %td= @idol.skill_name.blank? ? '-' : @idol.skill_name
+
+%ul
+  - @idol.words.each do |word|
+    %li= "#{@idol.name}: #{word.text}"
+
+%a{:href => idols_path} back
+

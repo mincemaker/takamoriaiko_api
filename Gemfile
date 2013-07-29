@@ -7,6 +7,8 @@ gem 'bson_ext'
 gem 'origin'
 gem 'moped'
 
+gem 'haml-rails'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 

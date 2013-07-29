@@ -1,0 +1,6 @@
+%h1 Idols#index
+
+%ul
+  - @idols.each do |idol|
+    %li
+      %a{:href => "/idols/#{idol.id}"}= idol.name
