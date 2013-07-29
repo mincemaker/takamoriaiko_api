@@ -74,6 +74,7 @@ GEM
     minitest (4.7.5)
     moped (1.5.0)
     multi_json (1.7.7)
+    newrelic_rpm (3.6.6.147)
     origin (1.1.0)
     polyglot (0.3.3)
     rack (1.5.2)
@@ -137,6 +138,7 @@ DEPENDENCIES
   jquery-rails
   mongoid!
   moped
+  newrelic_rpm
   origin
   rails (= 4.0.0)
   sass-rails (~> 4.0.0)
