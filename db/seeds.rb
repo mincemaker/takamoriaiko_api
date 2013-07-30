@@ -9,6 +9,7 @@
 data1 = YAML.load_file('db/idols.yml')
 data2 = YAML.load_file('db/words.yml')
 
+Idol.delete_all
 data1.each.with_index do |value, index|
   idol = Idol.new(value[1])
   data2.each do |word_data|
