@@ -1,12 +1,17 @@
 %h1 Idols#show
 
-%table
-  %tr
-    %th name
-    %td= @idol.name
-  %tr
-    %th skill
-    %td= @idol.skill_name.blank? ? '-' : @idol.skill_name
+%table.pure-table.pure-table-bordered
+  %thead
+  %tbody
+    %tr
+      %td name
+      %td= @idol.name
+    %tr
+      %td skill
+      %td= @idol.skill_name.blank? ? '-' : @idol.skill_name
+    %tr
+      %td tags
+      %td= @idol.words.map{|r| r.tags}.flatten.uniq.sort.join(', ')
 
 %ul
   - @idol.words.each do |word|
