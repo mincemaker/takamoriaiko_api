@@ -4,5 +4,5 @@ class Word
 
   field :idol_id, type: Integer
   field :text, type: String
-  field :tags, type: String
+  field :tags, type: Array
 end
