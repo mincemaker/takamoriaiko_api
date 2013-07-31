@@ -17,5 +17,8 @@
   - @idol.words.each do |word|
     %li= "#{@idol.name}: #{word.text}"
 
-%a{:href => idols_path} back
+%div
+  %a{:href => aiko_api_path(params[:id])} json
+%div
+  %a{:href => idols_path} back
 
