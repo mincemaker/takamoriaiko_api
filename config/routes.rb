@@ -1,4 +1,8 @@
 TakamoriaikoApi::Application.routes.draw do
   root :to => "idols#index"
-  resources :idols, :only => [:index, :show]
+
+  constraints :subdomain => 'api', :format => :json do
+    resources :idols, :only => [:index, :show], :defaults => {:format => :json}
+  end
+  resources :idols, :only => [:index, :show], :format => :html
 end
