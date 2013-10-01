@@ -260,3 +260,56 @@ yurufuwa_plus:
   max_atk: 17253
   max_def: 12562
 
+hallomori:
+  id: 11
+  name: "[深緑の魔女] 高森藍子"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: やさしい魔法 (全タイプのフロントメンバー及びバックメンバー上位1人の攻守特大ダウン)
+  rarity: normal
+  level_max: 60
+  love_max:  40
+  cost: 18
+  transfer_money: 10900
+  min_atk: 4280
+  min_def: 4340
+  max_atk: 11655
+  max_def: 10973
+
+
+hallomori_plus:
+  id: 12
+  name: "[深緑の魔女] 高森藍子+"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: やさしい魔法 (全タイプのフロントメンバー及びバックメンバー上位1人の攻守 極大ダウン)
+  rarity: normal
+  level_max: 70
+  love_max: 300
+  cost: 18
+  transfer_money: 16350
+  min_atk: 4440
+  min_def: 4180
+  max_atk: 17650
+  max_def: 16617
+

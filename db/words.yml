@@ -2878,3 +2878,213 @@ yurufuwa_p_work_5:
   tags:
     - birthday
 
+hallomori_profile:
+  idol_id: 11
+  text: 黒猫さん、ハロウィンらしい素敵な1枚をありがとうっ。こうして日々、少しずつ幸せを集めてると思えば、プロデューサーさんも心が暖かくなりませんか? いつか…幸せで心が溢れちゃうかも…♪
+  tags:
+    - hallomori
+    - profile
+
+hallomori_loveup:
+  idol_id: 11
+  text: プロデューサーさん、一緒に1枚…あ、すみません、お仕事中に…
+  tags:
+    - hellomori
+    - loveup
+
+hallomori_lovemax:
+  idol_id: 11
+  text: 私、毎日その日の出来事を日記に書くんですけど... ハロウィンも、素敵な思い出ができました。『今日も、しあわせ』って書きますね
+  tags:
+    - hellomori
+    - lovemax
+
+hallomori_leader:
+  idol_id: 11
+  text: 笑顔で歌いましょう♪
+  tags:
+    - hellomori
+    - leader
+
+hallomori_front_1:
+  idol_id: 11
+  text: ハロウィンのイタズラも、普段と違う事で笑顔が生まれるって思います
+  tags:
+    - hellomori
+    - front
+
+hallomori_front_2:
+  idol_id: 11
+  text: かぼちゃ、美味しいですよね♪
+  tags:
+    - hellomori
+    - front
+
+hallomori_front_3:
+  idol_id: 11
+  text: 今日の1枚、今日も幸せです♪
+  tags:
+    - hellomori
+    - front
+
+hallomori_front_4:
+  idol_id: 11
+  text: 控えめですけど、いいんですっ
+  tags:
+    - hellomori
+    - front
+
+hallomori_front_5:
+  idol_id: 11
+  text: プロデューサーさんと、毎日小さな幸せを積み重ねてるみたい...
+  tags:
+    - hellomori
+    - front
+
+hallomori_work_1:
+  idol_id: 11
+  text: 毎日お祭り気分で楽しく、です
+  tags:
+    - hellomori
+    - work
+
+hallomori_work_2:
+  idol_id: 11
+  text: お仕事の様子も1枚...パシャ♪
+  tags:
+    - hellomori
+    - work
+
+hallomori_work_3:
+  idol_id: 11
+  text: 今日も一日、しっかり頑張りましょうね、プロデューサーさん
+  tags:
+    - hellomori
+    - work
+
+hallomori_work_4:
+  idol_id: 11
+  text: 幸せな...ハロウィンの一日を...♪
+  tags:
+    - hellomori
+    - work
+
+hallomori_work_5:
+  idol_id: 11
+  text: プロデューサーさんと一緒だったら、大変なお仕事も幸せですっ
+  tags:
+    - hellomori
+    - work
+
+hallomori_p_profile:
+  idol_id: 12
+  text: あっ、プロデューサーさん、今日の撮影は森の魔女風ですね。魔女って悪いイメージだけど、違うかも...って思うんです。だって...私が魔女だったら皆が笑顔になれる魔法を使いたいって思うから...
+  tags:
+    - hallomori
+    - plus
+    - profile
+
+hallomori_p_loveup:
+  idol_id: 12
+  text: 私の笑顔は…誰かを幸せにできる魔法に…なれるかな…?
+  tags:
+    - hellomori
+    - plus
+    - loveup
+
+hallomori_p_lovemax:
+  idol_id: 12
+  text: 魔法が使えなくっても...ファンのみなさんや、スタッフさんや...みんなを幸せにしてあげたいな...。もちろん、プロデューサーさんも...
+  tags:
+    - hellomori
+    - plus
+    - lovemax
+
+hallomori_p_leader:
+  idol_id: 12
+  text: 自然体でいきましょう
+  tags:
+    - hellomori
+    - plus
+    - leader
+
+hallomori_p_front_1:
+  idol_id: 12
+  text: 森林浴気分ですね...ふぅ...
+  tags:
+    - hellomori
+    - plus
+    - front
+
+hallomori_p_front_2:
+  idol_id: 12
+  text: 森にいそうって言われますけど...東京生まれの東京育ちで...
+  tags:
+    - hellomori
+    - plus
+    - front
+
+hallomori_p_front_3:
+  idol_id: 12
+  text: かぼちゃ、美味しいですよね♪
+  tags:
+    - hellomori
+    - plus
+    - front
+
+hallomori_p_front_4:
+  idol_id: 12
+  text: 控えめですけど、いいんですっ
+  tags:
+    - hellomori
+    - plus
+    - front
+
+hallomori_p_front_5:
+  idol_id: 12
+  text: プロデューサーさんには幸せの魔法をかけてあげたいですねっ
+  tags:
+    - hellomori
+    - plus
+    - front
+
+hallomori_p_work_1:
+  idol_id: 12
+  text: 幸せな...ハロウィンの一日を...♪
+  tags:
+    - hellomori
+    - plus
+    - work
+
+hallomori_p_work_2:
+  idol_id: 12
+  text: セクシーな衣装は私...ちょっと...
+  tags:
+    - hellomori
+    - plus
+    - work
+
+hallomori_p_work_3:
+  idol_id: 12
+  text: 毎日お祭り気分で楽しく、です
+  tags:
+    - hellomori
+    - plus
+    - work
+
+hallomori_p_work_4:
+  idol_id: 12
+  text: きゃ...! プロデューサーさん、む、虫がついて...取ってくださいっ
+  tags:
+    - hellomori
+    - plus
+    - work
+
+hallomori_p_work_5:
+  idol_id: 12
+  text: プロデューサーさんの笑顔は、私を幸せにする魔法ですよ
+  tags:
+    - hellomori
+    - plus
+    - work
+
