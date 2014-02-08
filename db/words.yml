@@ -2657,30 +2657,31 @@ anniversary_endless_special_commu_4_normal:
     - special_communication
     - normal
 
-yurufuwa_gacha_1:
+yurufuwa_join_1:
   idol_id: 9
   text: こうして二人きりでお話してると、仕事の忙しさも忘れちゃいますね。もう少しだけ…ゆっくり…
   tags:
     - yurufuwa
-    - gacha
+    - join
 
-yurufuwa_gacha_2:
+yurufuwa_join_2:
   idol_id: 9
   text: ここ、最近見つけた私のお気に入りのカフェなんです。この場所は、みんなには秘密ですよ。うふふ♪
   tags:
     - yurufuwa
-    - gacha
+    - join
 
-yurufuwa_gacha_3:
+yurufuwa_join_3:
   idol_id: 9
   text: 私がアイドルのお仕事を頑張れるのは、こうしてのんびりした時間を大切にできているから…かも♪
   tags:
     - yurufuwa
-    - gacha
+    - join
 
 yurufuwa_profile:
   idol_id: 9
   text: ○○さん､とっても落ち着くお店でしょ? 最近見つけた私のお気に入りのカフェなんです｡アイドルとして忙しいのも嬉しいですけど､こうしてゆったり過ごすのもいいと思いませんか?
+  voice: '/sound/3405201/eab9fec86a714b62312b6dd3372372dd.mp4'
   tags:
     - yurufuwa
     - profile
@@ -2688,6 +2689,7 @@ yurufuwa_profile:
 yurufuwa_loveup:
   idol_id: 9
   text: 私のオススメのメニュー、○○さんに教えてあげますね♪
+  voice: '/sound/3405201/a7a962e9966fd017a107cc34dd203720.mp4'
   tags:
     - yurufuwa
     - loveup
@@ -2695,6 +2697,7 @@ yurufuwa_loveup:
 yurufuwa_lovemax:
   idol_id: 9
   text: 私がこのお店を教えたのは初めてなんですよ？だって、これからも○○さんと一緒の時間を大切にしたいんです!
+  voice: '/sound/3405201/3e05223d67709e90e32e88b8462b2b0c.mp4'
   tags:
     - yurufuwa
     - lovemax
@@ -2702,6 +2705,7 @@ yurufuwa_lovemax:
 yurufuwa_leader:
   idol_id: 9
   text: たまにはお休みしましょ？
+  voice: '/sound/3405201/24f07780fb4c13fe80dbab7de4b27639.mp4'
   tags:
     - yurufuwa
     - leader
@@ -2709,6 +2713,7 @@ yurufuwa_leader:
 yurufuwa_front_1:
   idol_id: 9
   text: 優しい気持ちって大事ですから
+  voice: '/sound/3405201/33d56d49b97c834d398a8ae3cad1e0d2.mp4'
   tags:
     - yurufuwa
     - front
@@ -2716,6 +2721,7 @@ yurufuwa_front_1:
 yurufuwa_front_2:
   idol_id: 9
   text: 自然の匂いって好きなんです
+  voice: '/sound/3405201/08b58b3551cdd9cb1a5b50c66d3cf9ec.mp4'
   tags:
     - yurufuwa
     - front
@@ -2723,6 +2729,7 @@ yurufuwa_front_2:
 yurufuwa_front_3:
   idol_id: 9
   text: こんな休日も素敵ですよね
+  voice: '/sound/3405201/de849385d4c6fe7ffb45f25a919120d1.mp4'
   tags:
     - yurufuwa
     - front
@@ -2730,6 +2737,7 @@ yurufuwa_front_3:
 yurufuwa_front_4:
   idol_id: 9
   text: ここは自然体でいられるんです。時間がゆっくり、みたいな…
+  voice: '/sound/3405201/157154f46dda94b670049c894aa7e611.mp4'
   tags:
     - yurufuwa
     - front
@@ -2737,6 +2745,7 @@ yurufuwa_front_4:
 yurufuwa_front_5:
   idol_id: 9
   text: 私と○○さんの、秘密の隠れ家にしちゃいましょうか
+  voice: '/sound/3405201/010c9232df45c7d0ddd4aa3913656053.mp4'
   tags:
     - yurufuwa
     - front
@@ -2744,6 +2753,7 @@ yurufuwa_front_5:
 yurufuwa_work_1:
   idol_id: 9
   text: 落ち着いてお仕事します♪
+  voice: '/sound/3405201/8323132189b5a625f4b24559b974fb3c.mp4'
   tags:
     - yurufuwa
     - work
@@ -2751,6 +2761,7 @@ yurufuwa_work_1:
 yurufuwa_work_2:
   idol_id: 9
   text: あ、ネコさん……うふふ♪
+  voice: '/sound/3405201/d2d8756a1b5a49ede6a34f481a7b227a.mp4'
   tags:
     - yurufuwa
     - work
@@ -2758,6 +2769,7 @@ yurufuwa_work_2:
 yurufuwa_work_3:
   idol_id: 9
   text: 今、この瞬間をカメラで撮りたいな
+  voice: '/sound/3405201/1b3e77a8d2618b8f62d1a00a44b84303.mp4'
   tags:
     - yurufuwa
     - work
@@ -2765,6 +2777,7 @@ yurufuwa_work_3:
 yurufuwa_work_4:
   idol_id: 9
   text: そっか、お仕事でしたね。ふふ、なんだかのんびりしちゃって…
+  voice: '/sound/3405201/63e0e67a1cc4112aceb321a3a595baba.mp4'
   tags:
     - yurufuwa
     - work
@@ -2772,6 +2785,7 @@ yurufuwa_work_4:
 yurufuwa_work_5:
   idol_id: 9
   text: ○○さんと過ごす時間が、何よりの心の栄養ですから
+  voice: '/sound/3405201/e66c88a9523cde8d43134fefe0473ae7.mp4'
   tags:
     - yurufuwa
     - work
@@ -2779,6 +2793,7 @@ yurufuwa_work_5:
 yurufuwa_p_profile:
   idol_id: 10
   text: 真っ白なドレスで…ここは幻想的な森の中…うふふ､すこし不思議な感じですね｡でもすぐ隣に○○さんがいて…動物たちにも祝福されてるみたいで…小さな幸せを実感しますね…
+  voice: '/sound/3505202/15b4145b99e62330ea5b2eb06f857318.mp4'
   tags:
     - yurufuwa
     - plus
@@ -2787,6 +2802,7 @@ yurufuwa_p_profile:
 yurufuwa_p_loveup:
   idol_id: 10
   text: ○○さんに新たな魅力を見つけてもらうように…
+  voice: '/sound/3505202/c0207d39fa62cb7e13dd744fcf391126.mp4'
   tags:
     - yurufuwa
     - plus
@@ -2795,6 +2811,7 @@ yurufuwa_p_loveup:
 yurufuwa_p_lovemax:
   idol_id: 10
   text: ずっと支えてくれた○○さんの笑顔の為に…私はこれからもずっとｱｲﾄﾞﾙを続けていきたいなって思います♪
+  voice: '/sound/3505202/8281b6cc3c80c449ada3a068bbeb0af9.mp4'
   tags:
     - yurufuwa
     - plus
@@ -2803,6 +2820,7 @@ yurufuwa_p_lovemax:
 yurufuwa_p_leader:
   idol_id: 10
   text: 花々がきれいでしょ？
+  voice: '/sound/3505202/ed20f5c7afd0800202cd3cb19b00e78e.mp4'
   tags:
     - yurufuwa
     - plus
@@ -2811,6 +2829,7 @@ yurufuwa_p_leader:
 yurufuwa_p_front_1:
   idol_id: 10
   text: 優しい気持ちって大事ですから
+  voice: '/sound/3505202/298715dbb5b5d2aafd2ac1b00d18cb08.mp4'
   tags:
     - yurufuwa
     - plus
@@ -2819,6 +2838,7 @@ yurufuwa_p_front_1:
 yurufuwa_p_front_2:
   idol_id: 10
   text: 自然の匂いって好きなんです
+  voice: '/sound/3505202/a21cc6583792c5129ed32cb161b94e70.mp4'
   tags:
     - yurufuwa
     - plus
@@ -2827,6 +2847,7 @@ yurufuwa_p_front_2:
 yurufuwa_p_front_3:
   idol_id: 10
   text: 純白のドレス、なんだか照れちゃいますね。ふふ、似合ってますか？
+  voice: '/sound/3505202/95d98c1b06cfbad2625ff13f21ff6352.mp4'
   tags:
     - yurufuwa
     - plus
@@ -2835,6 +2856,7 @@ yurufuwa_p_front_3:
 yurufuwa_p_front_4:
   idol_id: 10
   text: 森の妖精になった気分…かな
+  voice: '/sound/3505202/4852d252f8d38b6ea76501c767d22509.mp4'
   tags:
     - yurufuwa
     - plus
@@ -2843,6 +2865,7 @@ yurufuwa_p_front_4:
 yurufuwa_p_front_5:
   idol_id: 10
   text: 大好きな○○さんの笑顔…これからもずっと見たい…
+  voice: '/sound/3505202/afa29e16060d106a1159659b38953a05.mp4'
   tags:
     - yurufuwa
     - plus
@@ -2851,6 +2874,7 @@ yurufuwa_p_front_5:
 yurufuwa_p_work_1:
   idol_id: 10
   text: 落ち着いてお仕事します♪
+  voice: '/sound/3505202/50dd75ac64394125cc622f570d77af7e.mp4'
   tags:
     - yurufuwa
     - plus
@@ -2859,6 +2883,7 @@ yurufuwa_p_work_1:
 yurufuwa_p_work_2:
   idol_id: 10
   text: あ、ネコさん……うふふ♪
+  voice: '/sound/3505202/e9e94d32014a9ea6de5265e9d74fa544.mp4'
   tags:
     - yurufuwa
     - plus
@@ -2867,6 +2892,7 @@ yurufuwa_p_work_2:
 yurufuwa_p_work_3:
   idol_id: 10
   text: ぽかぽかって気持ちいいですね
+  voice: '/sound/3505202/44289cf10d91d37216ef15b9f6710d45.mp4'
   tags:
     - yurufuwa
     - plus
@@ -2875,6 +2901,7 @@ yurufuwa_p_work_3:
 yurufuwa_p_work_4:
   idol_id: 10
   text: ○○さん、たんぽぽって眩しい太陽に似てませんか？
+  voice: '/sound/3505202/045e75895f609cfbe8d5d81cb548d604.mp4'
   tags:
     - yurufuwa
     - plus
@@ -2883,6 +2910,7 @@ yurufuwa_p_work_4:
 yurufuwa_p_work_5:
   idol_id: 10
   text: ○○さんが笑顔だと、私まで笑顔になっちゃいます♪
+  voice: '/sound/3505202/0c15251f39e1d63f6c245204bf0a603b.mp4'
   tags:
     - yurufuwa
     - plus
@@ -3316,189 +3344,234 @@ cdsr_join:
   idol_id: 13
   text: ○○さんのおかげで、私もついにCDデビューできました。みんなが私の歌を聴いて、優しい気持ちになってくれたら嬉しいな…
   tags:
+    - cdsr
     - join
 
 cdsr_profile:
   idol_id: 13
   text: 私の歌がCDになるんですね…今、私、幸せな気持ちでいっぱいですっ…！　この気持ち、もっとたくさんの人に届けたいです！　ここがゴールじゃなくて、ここからがスタート、ですねっ
   tags:
+    - cdsr
     - profile
 
 cdsr_loveup:
   idol_id: 13
   text: ほらっ♪　○○さん、風が気持ちいいですよっ
   tags:
+    - cdsr
     - loveup
 
 cdsr_lovemax:
   idol_id: 13
   text: ○○さんが私をこんなに幸せにしてくれたから、きっと私も誰かを幸せに出来るはず…私、頑張りますねっ
   tags:
+    - cdsr
     - lovemax
 
 cdsr_leader:
   idol_id: 13
   text: ゆっくりしましょうか♪
   tags:
+    - cdsr
     - leader
 
 cdsr_front1:
   idol_id: 13
   text: ○○さん、衣装で記念撮影したいですっ
   tags:
+    - cdsr
     - front
 
 cdsr_front2:
   idol_id: 13
   text: 優しい気持ちになれる曲です♪
   tags:
+    - cdsr
     - front
 
 cdsr_front3:
   idol_id: 13
   text: みんなの笑顔が見たいなっ
   tags:
+    - cdsr
     - front
 
 cdsr_front4:
   idol_id: 13
   text: （お花、いい匂い…）
   tags:
+    - cdsr
     - front
 
 cdsr_front5:
   idol_id: 13
   text: とっておきのカフェで打ち上げしませんかっ？　その、二人で…
   tags:
+    - cdsr
     - front
 
 cdsr_work1:
   idol_id: 13
   text: スタジオに風が…扇風機ですか？
   tags:
+    - cdsr
     - work
 
 cdsr_work2:
   idol_id: 13
   text: 今、とっても幸せです！
   tags:
+    - cdsr
     - work
 
 cdsr_work3:
   idol_id: 13
   text: ゆっくり聞いてほしいな
   tags:
+    - cdsr
     - work
 
 cdsr_work4:
   idol_id: 13
   text: この衣装、ふわふわで嬉しいですっ♪　ふわふわ～…ふふっ
   tags:
+    - cdsr
     - work
 
 cdsr_work5:
   idol_id: 13
   text: ○○さん、このままお散歩しませんか？　うふふ♪
   tags:
+    - cdsr
     - work
 
 cdsr_p_profile:
   idol_id: 14
   text: アイドルになって本当に良かったって、今、心からそう思えます。ファンのみなさんが優しい気持ちになれるような、微笑んでくれるようなアイドルに一歩近づけたって思うから…！
   tags:
+    - cdsr
     - profile
+    - plus
 
 cdsr_p_loveup:
   idol_id: 14
   text: ○○さんと過ごす毎日が、私の宝物ですっ
   tags:
+    - cdsr
     - loveup
+    - plus
 
 cdsr_p_lovemax:
   idol_id: 14
   text: ○○さん､これからも二人で幸せをつくっていきましょうねっ！ …って､あ…あの､深い意味は無いですからねっ！？
   tags:
+    - cdsr
     - lovemax
+    - plus
 
 cdsr_p_leader:
   idol_id: 14
   text: もっとのんびりしましょ♪
   tags:
+    - cdsr
     - leader
+    - plus
 
 cdsr_p_front1:
   idol_id: 14
   text: みんなの笑顔が見たいなっ
   tags:
+    - cdsr
     - front
+    - plus
 
 cdsr_p_front2:
   idol_id: 14
   text: この気持ち、届いてますか？
   tags:
+    - cdsr
     - front
+    - plus
 
 cdsr_p_front3:
   idol_id: 14
   text: うふふ、ステージからみんなの笑顔が見えてますよっ
   tags:
+    - cdsr
     - front
+    - plus
 
 cdsr_p_front4:
   idol_id: 14
   text: 優しい気持ちになれる曲です♪
   tags:
+    - cdsr
     - front
+    - plus
 
 cdsr_p_front5:
   idol_id: 14
   text: ○○さんもほらっ､いっしょに笑ってください♪
   tags:
+    - cdsr
     - front
+    - plus
 
 cdsr_p_work1:
   idol_id: 14
   text: 今、とっても幸せです！
   tags:
+    - cdsr
     - work
+    - plus
 
 cdsr_p_work2:
   idol_id: 14
   text: 座って歌っていたら、しっかりみんなの顔が見えますね
   tags:
+    - cdsr
     - work
+    - plus
 
 cdsr_p_work3:
   idol_id: 14
   text: ゆっくり聞いてほしいな
   tags:
+    - cdsr
     - work
+    - plus
 
 cdsr_p_work4:
   idol_id: 14
   text: ゆっくり…し過ぎですか？
   tags:
+    - cdsr
     - work
+    - plus
 
 cdsr_p_work5:
   idol_id: 14
   text: ○○さんとだから、こんなに幸せに歌えるんですよっ
   tags:
+    - cdsr
     - work
+    - plus
 
-delemori_join1:
+deremori_join1:
   idol_id: 15
   text: 私を支えてくれるのは沢山のファンのみんなの声援と、プロデューサーさんの笑顔なんです。私…まだまだがんばれますっ
   tags:
+    - cinderella_dream
     - join
 
-delemori_join2:
+deremori_join2:
   idol_id: 15
   text: たくさんの人を笑顔にできるように…これからもプロデューサーさんと一緒にアイドル続けていきたいです
   tags:
+    - cinderella_dream
     - join
 
-delemori_profile:
+deremori_profile:
   idol_id: 15
   text: 私、アイドルになるときに抱いた気持ちを、ずっと持っていようって思ってるんです。ファンのみなさんが優しい気持ちになれるように…って。それが私の…アイドルとしての理想ですね。ふふっ
   voice: '/sound/3411301/ea4de5757f0b95e7108acb4c81900cb0.mp4'
@@ -3509,160 +3582,201 @@ deremori_loveup:
   idol_id: 15
   text: 一緒にお仕事してると楽しくて…気分がよくなっちゃいますね
   tags:
+    - cinderella_dream
     - loveup
 
 deremori_lovemax:
   idol_id: 15
   text: ○○さんには感謝してるんです。私を信じてプロデュースしてくれたんですもの。…いつかきっと、お返ししますから
   tags:
+    - cinderella_dream
     - lovemax
 
 deremori_leader:
   idol_id: 15
   text: 私もきらきら輝けるかな?
   tags:
+    - cinderella_dream
     - leader
 
 deremori_front1:
   idol_id: 15
   text: 笑顔なら幸せがやってきますよ
   tags:
+    - cinderella_dream
     - front
 
 deremori_front2:
   idol_id: 15
   text: 夢はささやかでも、幸せですっ
   tags:
+    - cinderella_dream
     - front
 
 deremori_front3:
   idol_id: 15
   text: みんな仲良く、大事なことです
   tags:
+    - cinderella_dream
     - front
 
 deremori_front4:
   idol_id: 15
   text: お散歩とティータイム、心がほっこりする秘訣です。オススメですよ♪
   tags:
+    - cinderella_dream
     - front
 
 deremori_front5:
   idol_id: 15
   text: ○○さんと一緒に…優しい気持ちになれたらいいな
   tags:
+    - cinderella_dream
     - front
 
 deremori_work1:
   idol_id: 15
   text: 今日もいいお仕事しましょうね
   tags:
+    - cinderella_dream
     - work
 
 deremori_work2:
   idol_id: 15
   text: お散歩したいな…あ、衣装…
   tags:
+    - cinderella_dream
     - work
 
 deremori_work3:
   idol_id: 15
   text: ゆっくりでも、いいんですよ?
   tags:
+    - cinderella_dream
     - work
 
 deremori_work4:
   idol_id: 15
   text: 誰かの特別もいいけど、みんなの笑顔のためにがんばりたいな
   tags:
+    - cinderella_dream
     - work
 
 deremori_work5:
   idol_id: 15
   text: 頑張った自分を褒めていいんですよ。私も褒めますから。ふふっ
   tags:
+    - cinderella_dream
     - work
 
 deremori_p_profile:
   idol_id: 16
   text: アイドルになって本当に良かったって、今、心からそう思えます。ファンのみなさんが優しい気持ちになれるような、微笑んでくれるようなアイドルに一歩近づけたって思うから…！
   tags:
+    - cinderella_dream
     - profile
+    - plus
 
 deremori_p_loveup:
   idol_id: 16
   text: ○○さんと過ごす毎日が、私の宝物ですっ
   tags:
+    - cinderella_dream
     - loveup
+    - plus
 
 deremori_p_lovemax:
   idol_id: 16
   text: ○○さん､これからも二人で幸せをつくっていきましょうねっ！ …って､あ…あの､深い意味は無いですからねっ！？
   tags:
+    - cinderella_dream
     - lovemax
+    - plus
 
 deremori_p_leader:
   idol_id: 16
   text: もっとのんびりしましょ♪
   tags:
+    - cinderella_dream
     - leader
+    - plus
 
 deremori_p_front1:
   idol_id: 16
   text: みんなの笑顔が見たいなっ
   tags:
+    - cinderella_dream
     - front
+    - plus
 
 deremori_p_front2:
   idol_id: 16
   text: この気持ち、届いてますか？
   tags:
+    - cinderella_dream
     - front
+    - plus
 
 deremori_p_front3:
   idol_id: 16
   text: うふふ、ステージからみんなの笑顔が見えてますよっ
   tags:
+    - cinderella_dream
     - front
+    - plus
 
 deremori_p_front4:
   idol_id: 16
   text: 優しい気持ちになれる曲です♪
   tags:
+    - cinderella_dream
     - front
+    - plus
 
 deremori_p_front5:
   idol_id: 16
   text: ○○さんもほらっ､いっしょに笑ってください♪
   tags:
+    - cinderella_dream
     - front
+    - plus
 
 deremori_p_work1:
   idol_id: 16
   text: 今、とっても幸せです！
   tags:
+    - cinderella_dream
     - work
+    - plus
 
 deremori_p_work2:
   idol_id: 16
   text: 座って歌っていたら、しっかりみんなの顔が見えますね
   tags:
+    - cinderella_dream
     - work
+    - plus
 
 deremori_p_work3:
   idol_id: 16
   text: ゆっくり聞いてほしいな
   tags:
+    - cinderella_dream
     - work
+    - plus
 
 deremori_p_work4:
   idol_id: 16
   text: ゆっくり…し過ぎですか？
   tags:
+    - cinderella_dream
     - work
+    - plus
 
 deremori_p_work5:
   idol_id: 16
   text: ○○さんとだから、こんなに幸せに歌えるんですよっ
   tags:
+    - cinderella_dream
     - work
+    - plus
