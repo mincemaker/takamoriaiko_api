@@ -3,8 +3,9 @@ production:
     default: 
       uri: <%= ENV['MONGOLAB_URI'] %>
       options:
-        safe: true
-        skip_version_check: true
+        max_retries: 30
+        retry_interval: 1
+        timeout: 30
 development:
   sessions:
     default:
