@@ -16,7 +16,7 @@ normal_takamorisan:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name:
-  rarity: normal
+  rarity: N
   level_max: 20
   love_max: 20
   cost: 2
@@ -42,7 +42,7 @@ normal_takamorisan_plus:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name:
-  rarity: normal
+  rarity: N+
   level_max: 30
   love_max: 100
   cost: 2
@@ -68,7 +68,7 @@ valemorisan:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name:
-  rarity: normal
+  rarity: R
   level_max: 20
   love_max: 20
   cost: 10
@@ -94,7 +94,7 @@ valemorisan_plus:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name:
-  rarity: normal
+  rarity: R+
   level_max: 30
   love_max: 100
   cost: 10
@@ -120,7 +120,7 @@ funwari_girl:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name: ポジティブシンキング (パッションタイプの攻 中アップ)
-  rarity: normal
+  rarity: R
   level_max: 40
   love_max: 30
   cost: 12
@@ -146,7 +146,7 @@ funwari_girl_plus:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name: ポジティブシンキング (パッションタイプの攻 中アップ)
-  rarity: normal
+  rarity: R+
   level_max: 50
   love_max: 150
   cost: 12
@@ -172,7 +172,7 @@ anniversary_yellow:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name: 想い出スマイル (パッションタイプの守 小アップ)
-  rarity: normal
+  rarity: R
   level_max: 40
   love_max: 30
   cost: 10
@@ -198,7 +198,7 @@ anniversary_yellow_plus:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name: 想い出スマイル (パッションタイプの守 小アップ)
-  rarity: normal
+  rarity: R+
   level_max: 50
   love_max: 150
   cost: 10
@@ -224,7 +224,7 @@ yurufuwa:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name: ナチュラルスマイル (キュート、パッションタイプの守 ランダムで大〜特大アップ)
-  rarity: normal
+  rarity: SR
   level_max: 60
   love_max: 40
   cost: 17
@@ -250,7 +250,7 @@ yurufuwa_plus:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name: ナチュラルスマイル (キュート、パッションタイプの守 ランダムで特大〜極大アップ)
-  rarity: normal
+  rarity: SR+
   level_max: 70
   love_max: 300
   cost: 17
@@ -276,7 +276,7 @@ hallomori:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name: やさしい魔法 (全タイプのフロントメンバー及びバックメンバー上位1人の攻守特大ダウン)
-  rarity: normal
+  rarity: SR+
   level_max: 60
   love_max:  40
   cost: 18
@@ -303,7 +303,7 @@ hallomori_plus:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name: やさしい魔法 (全タイプのフロントメンバー及びバックメンバー上位1人の攻守 極大ダウン)
-  rarity: normal
+  rarity: SR+
   level_max: 70
   love_max: 300
   cost: 18
@@ -312,4 +312,108 @@ hallomori_plus:
   min_def: 4180
   max_atk: 17650
   max_def: 16617
+
+cdsr:
+  id: 13
+  name: "[CDデビュー] 高森藍子"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: お散歩カメラ (パッションタイプの攻守 中アップ)
+  rarity: SR
+  level_max: 60
+  love_max: 40
+  cost: 11
+  transfer_money: 10550
+  min_atk: 2240
+  min_def: 2080
+  max_atk: 5880
+  max_def: 5460
+
+cdsr_plus:
+  id: 14
+  name: "[CDデビュー] 高森藍子+"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: お散歩カメラ (パッションタイプの攻守 大アップ)
+  rarity: SR+
+  level_max: 70
+  love_max: 300
+  cost: 11
+  transfer_money: 15825
+  min_atk: 2688
+  min_def: 2496
+  max_atk: 8904
+  max_def: 8268
+
+deremori:
+  id: 15
+  name: "[シンデレラドリーム] 高森藍子"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: 夢のチカラ (自分の攻 極大アップ)
+  rarity: SR
+  level_max: 60
+  love_max: 40
+  cost: 11
+  transfer_money: N/A
+  min_atk: N/A
+  min_def: N/A
+  max_atk: 13800
+  max_def: 8800
+
+deremori_p:
+  id: 16
+  name: "[シンデレラドリーム] 高森藍子+"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: 夢のチカラ (自分の攻 絶大アップ)
+  rarity: SR+
+  level_max: 70
+  love_max: 300
+  cost: 11
+  transfer_money: N/A
+  min_atk: N/A
+  min_def: N/A
+  max_atk: 21942
+  max_def: 13992
 

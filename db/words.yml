@@ -3,6 +3,7 @@
 normal_profile:
   idol_id: 1
   text: はじめまして、プロデューサーさん、ファンのみなさんが優しい気持ちになれるような、微笑んでくれるようなアイドルを目指したいと思っているんです。よろしくお願いしますねっ。
+  voice: '/sound/3000201/5f46c26436eed7cbf6bb6b52be22b520.mp4'
   tags:
     - profile
 
@@ -21,6 +22,7 @@ normal_lovemax:
 normal_leader:
   idol_id: 1
   text: 競うのはあまり好きじゃ…
+  voice: '/sound/3000201/648ac8833870e6f5dbfaf7167b1d58a6.mp4'
   tags:
     - leader
 
@@ -2881,7 +2883,7 @@ yurufuwa_p_work_5:
 hallomori_profile:
   idol_id: 11
   text: 黒猫さん、ハロウィンらしい素敵な1枚をありがとうっ。こうして日々、少しずつ幸せを集めてると思えば、プロデューサーさんも心が暖かくなりませんか? いつか…幸せで心が溢れちゃうかも…♪
-  voice: '3409001/6b171e64dbce3a8ea3d5616601e58792.mp4'
+  voice: '/sound/3409001/6b171e64dbce3a8ea3d5616601e58792.mp4'
   tags:
     - hallomori
     - profile
@@ -2890,7 +2892,7 @@ hallomori_profile:
 hallomori_loveup:
   idol_id: 11
   text: プロデューサーさん、一緒に1枚…あ、すみません、お仕事中に…
-  voice: '3409001/238314f1d43020bd8651e0b11a6413ef.mp4'
+  voice: '/sound/3409001/238314f1d43020bd8651e0b11a6413ef.mp4'
   tags:
     - hellomori
     - loveup
@@ -2899,7 +2901,7 @@ hallomori_loveup:
 hallomori_lovemax:
   idol_id: 11
   text: 私、毎日その日の出来事を日記に書くんですけど... ハロウィンも、素敵な思い出ができました。『今日も、しあわせ』って書きますね
-  voice: '3409001/8716ad36e344776ae10ffb44ec696a58.mp4'
+  voice: '/sound/3409001/8716ad36e344776ae10ffb44ec696a58.mp4'
   tags:
     - hellomori
     - lovemax
@@ -2908,7 +2910,7 @@ hallomori_lovemax:
 hallomori_leader:
   idol_id: 11
   text: 笑顔で歌いましょう♪
-  voice: '3409001/af6b78f548d07c8b66609dbcc6770e45.mp4'
+  voice: '/sound/3409001/af6b78f548d07c8b66609dbcc6770e45.mp4'
   tags:
     - hellomori
     - leader
@@ -2917,7 +2919,7 @@ hallomori_leader:
 hallomori_front_1:
   idol_id: 11
   text: ハロウィンのイタズラも、普段と違う事で笑顔が生まれるって思います
-  voice: '3409001/7d206fe24443a1642ea742afcbe6dc29.mp4'
+  voice: '/sound/3409001/7d206fe24443a1642ea742afcbe6dc29.mp4'
   tags:
     - hellomori
     - front
@@ -2926,7 +2928,7 @@ hallomori_front_1:
 hallomori_front_2:
   idol_id: 11
   text: かぼちゃ、美味しいですよね♪
-  voice: 'sound/3409001/7d206fe24443a1642ea742afcbe6dc29.mp4'
+  voice: '/sound/3409001/7d206fe24443a1642ea742afcbe6dc29.mp4'
   tags:
     - hellomori
     - front
@@ -2935,7 +2937,7 @@ hallomori_front_2:
 hallomori_front_3:
   idol_id: 11
   text: 今日の1枚、今日も幸せです♪
-  voice: 'sound/3409001/6875e698d53862064d7675f67bc8e1b6.mp4'
+  voice: '/sound/3409001/6875e698d53862064d7675f67bc8e1b6.mp4'
   tags:
     - hellomori
     - front
@@ -2944,7 +2946,7 @@ hallomori_front_3:
 hallomori_front_4:
   idol_id: 11
   text: 控えめですけど、いいんですっ
-  voice: '3409001/7d79e95572364ad32ad82a4f3fe2d563.mp4'
+  voice: '/sound/3409001/7d79e95572364ad32ad82a4f3fe2d563.mp4'
   tags:
     - hellomori
     - front
@@ -2953,7 +2955,7 @@ hallomori_front_4:
 hallomori_front_5:
   idol_id: 11
   text: プロデューサーさんと、毎日小さな幸せを積み重ねてるみたい...
-  voice: '3409001/13c83d532da97aa6c5e41a5e19b26aa0.mp4'
+  voice: '/sound/3409001/13c83d532da97aa6c5e41a5e19b26aa0.mp4'
   tags:
     - hellomori
     - front
@@ -2962,7 +2964,7 @@ hallomori_front_5:
 hallomori_work_1:
   idol_id: 11
   text: 毎日お祭り気分で楽しく、です
-  voice: '3409001/ecf912cd5f271ba85582191955abdb9c.mp4'
+  voice: '/sound/3409001/ecf912cd5f271ba85582191955abdb9c.mp4'
   tags:
     - hellomori
     - work
@@ -2971,7 +2973,7 @@ hallomori_work_1:
 hallomori_work_2:
   idol_id: 11
   text: お仕事の様子も1枚...パシャ♪
-  voice: '3409001/1fbacbd968bbb8e7cc86a9b477939fa5.mp4'
+  voice: '/sound/3409001/1fbacbd968bbb8e7cc86a9b477939fa5.mp4'
   tags:
     - hellomori
     - work
@@ -2980,7 +2982,7 @@ hallomori_work_2:
 hallomori_work_3:
   idol_id: 11
   text: 今日も一日、しっかり頑張りましょうね、プロデューサーさん
-  voice: '3409001/fa1c346c40119b9766229fca129f650c.mp4'
+  voice: '/sound/3409001/fa1c346c40119b9766229fca129f650c.mp4'
   tags:
     - hellomori
     - work
@@ -2989,7 +2991,7 @@ hallomori_work_3:
 hallomori_work_4:
   idol_id: 11
   text: 幸せな...ハロウィンの一日を...♪
-  voice: '3409001/aff977dc9c7197ee234d192bbff74018.mp4'
+  voice: '/sound/3409001/aff977dc9c7197ee234d192bbff74018.mp4'
   tags:
     - hellomori
     - work
@@ -2998,7 +3000,7 @@ hallomori_work_4:
 hallomori_work_5:
   idol_id: 11
   text: プロデューサーさんと一緒だったら、大変なお仕事も幸せですっ
-  voice: '3409001/e062b4ff0ea234c8e14410a0a6bccebb.mp4'
+  voice: '/sound/3409001/e062b4ff0ea234c8e14410a0a6bccebb.mp4'
   tags:
     - hellomori
     - work
@@ -3007,7 +3009,7 @@ hallomori_work_5:
 hallomori_p_profile:
   idol_id: 12
   text: あっ、プロデューサーさん、今日の撮影は森の魔女風ですね。魔女って悪いイメージだけど、違うかも...って思うんです。だって...私が魔女だったら皆が笑顔になれる魔法を使いたいって思うから...
-  voice: '3509002/0572d1194e6d99dea99fe2484c94ead7.mp4'
+  voice: '/sound/3509002/0572d1194e6d99dea99fe2484c94ead7.mp4'
   tags:
     - hallomori
     - plus
@@ -3017,7 +3019,7 @@ hallomori_p_profile:
 hallomori_p_loveup:
   idol_id: 12
   text: 私の笑顔は…誰かを幸せにできる魔法に…なれるかな…?
-  voice: '3509002/9bcd8d4ef7e88b8a3c2497cfad8f5233.mp4'
+  voice: '/sound/3509002/9bcd8d4ef7e88b8a3c2497cfad8f5233.mp4'
   tags:
     - hellomori
     - plus
@@ -3027,7 +3029,7 @@ hallomori_p_loveup:
 hallomori_p_lovemax:
   idol_id: 12
   text: 魔法が使えなくっても...ファンのみなさんや、スタッフさんや...みんなを幸せにしてあげたいな...。もちろん、プロデューサーさんも...
-  voice: '3509002/e454167721036cce63542aaff3e61671.mp4'
+  voice: '/sound/3509002/e454167721036cce63542aaff3e61671.mp4'
   tags:
     - hellomori
     - plus
@@ -3037,7 +3039,7 @@ hallomori_p_lovemax:
 hallomori_p_leader:
   idol_id: 12
   text: 自然体でいきましょう
-  voice: '3509002/62885af45c30f8982e6b5987f2dd297e.mp4'
+  voice: '/sound/3509002/62885af45c30f8982e6b5987f2dd297e.mp4'
   tags:
     - hellomori
     - plus
@@ -3047,7 +3049,7 @@ hallomori_p_leader:
 hallomori_p_front_1:
   idol_id: 12
   text: 森林浴気分ですね...ふぅ...
-  voice: '3509002/4a11e0d36ab80d33c6a435cdacdac0df.mp4'
+  voice: '/sound/3509002/4a11e0d36ab80d33c6a435cdacdac0df.mp4'
   tags:
     - hellomori
     - plus
@@ -3057,7 +3059,7 @@ hallomori_p_front_1:
 hallomori_p_front_2:
   idol_id: 12
   text: 森にいそうって言われますけど...東京生まれの東京育ちで...
-  voice: '3509002/a71cd51ea1a72384697198b3cf75d9b0.mp4'
+  voice: '/sound/3509002/a71cd51ea1a72384697198b3cf75d9b0.mp4'
   tags:
     - hellomori
     - plus
@@ -3067,7 +3069,7 @@ hallomori_p_front_2:
 hallomori_p_front_3:
   idol_id: 12
   text: かぼちゃ、美味しいですよね♪
-  voice: '3509002/d029fccb18478876c1098a974ce16a43.mp4'
+  voice: '/sound/3509002/d029fccb18478876c1098a974ce16a43.mp4'
   tags:
     - hellomori
     - plus
@@ -3077,7 +3079,7 @@ hallomori_p_front_3:
 hallomori_p_front_4:
   idol_id: 12
   text: 控えめですけど、いいんですっ
-  voice: '3509002/79e07ad785532c45f1ab00e0d459ea73.mp4'
+  voice: '/sound/3509002/79e07ad785532c45f1ab00e0d459ea73.mp4'
   tags:
     - hellomori
     - plus
@@ -3087,7 +3089,7 @@ hallomori_p_front_4:
 hallomori_p_front_5:
   idol_id: 12
   text: プロデューサーさんには幸せの魔法をかけてあげたいですねっ
-  voice: '3509002/5ec8d6ba8faaeb39cc4090653505acd4.mp4'
+  voice: '/sound/3509002/5ec8d6ba8faaeb39cc4090653505acd4.mp4'
   tags:
     - hellomori
     - plus
@@ -3097,7 +3099,7 @@ hallomori_p_front_5:
 hallomori_p_work_1:
   idol_id: 12
   text: 幸せな...ハロウィンの一日を...♪
-  voice: '3509002/f071f3ca1009d7e69d382ad8dc1d6c47.mp4'
+  voice: '/sound/3509002/f071f3ca1009d7e69d382ad8dc1d6c47.mp4'
   tags:
     - hellomori
     - plus
@@ -3107,7 +3109,7 @@ hallomori_p_work_1:
 hallomori_p_work_2:
   idol_id: 12
   text: セクシーな衣装は私...ちょっと...
-  voice: '3509002/be158ed2c8083b1f92d6492a2a087894.mp4'
+  voice: '/sound/3509002/be158ed2c8083b1f92d6492a2a087894.mp4'
   tags:
     - hellomori
     - plus
@@ -3117,7 +3119,7 @@ hallomori_p_work_2:
 hallomori_p_work_3:
   idol_id: 12
   text: 毎日お祭り気分で楽しく、です
-  voice: '3509002/11674f7f5bd01404e34297ae26963f72.mp4'
+  voice: '/sound/3509002/11674f7f5bd01404e34297ae26963f72.mp4'
   tags:
     - hellomori
     - plus
@@ -3127,7 +3129,7 @@ hallomori_p_work_3:
 hallomori_p_work_4:
   idol_id: 12
   text: きゃ...! プロデューサーさん、む、虫がついて...取ってくださいっ
-  voice: '3509002/708d20587865a99f752459da97a42fc0.mp4'
+  voice: '/sound/3509002/708d20587865a99f752459da97a42fc0.mp4'
   tags:
     - hellomori
     - plus
@@ -3137,7 +3139,7 @@ hallomori_p_work_4:
 hallomori_p_work_5:
   idol_id: 12
   text: プロデューサーさんの笑顔は、私を幸せにする魔法ですよ
-  voice: '3509002/2ee97323e674c238baf0ced5b3bdb3b6.mp4'
+  voice: '/sound/3509002/2ee97323e674c238baf0ced5b3bdb3b6.mp4'
   tags:
     - hellomori
     - plus
@@ -3147,7 +3149,7 @@ hallomori_p_work_5:
 hallomori_episode_first_half_1:
   idol_id: 1
   text: あら…プロデューサーさん、お疲れさまです。今日もいいお天気ですね…事務所に来るまでにお散歩してきちゃいました
-  voice: '9900014/eae08966a81417d698f22a9871841573.mp4'
+  voice: '/sound/9900014/eae08966a81417d698f22a9871841573.mp4'
   tags:
     - hellomori
     - episode
@@ -3157,7 +3159,7 @@ hallomori_episode_first_half_1:
 hallomori_episode_first_half_2:
   idol_id: 1
   text: そうそう、お散歩してて気付いたんですけど、世間はハロウィンシーズンなんですね。秋の季節って感じで、好きなんです、私
-  voice: '9900014/fdf945f4c6d0719145ac46d592fceddb.mp4'
+  voice: '/sound/9900014/fdf945f4c6d0719145ac46d592fceddb.mp4'
   tags:
     - hellomori
     - episode
@@ -3167,7 +3169,7 @@ hallomori_episode_first_half_2:
 hallomori_episode_first_half_3:
   idol_id: 1
   text: 毎日レッスンやお仕事をして、たまのオフにカフェに行ったり…お散歩したり…日々、ゆっくりですけど、楽しく過ごしてますよ
-  voice: '9900014/c85b042fac5029808d7a825191dcf006.mp4'
+  voice: '/sound/9900014/c85b042fac5029808d7a825191dcf006.mp4'
   tags:
     - hellomori
     - episode
@@ -3177,7 +3179,7 @@ hallomori_episode_first_half_3:
 hallomori_episode_first_half_4:
   idol_id: 1
   text: これも、プロデューサーさんやみんなといっしょに、笑顔で過ごせているからかな…そう思います
-  voice: '9900014/f08ab129b6bb5795e3611c56e4335477.mp4'
+  voice: '/sound/9900014/f08ab129b6bb5795e3611c56e4335477.mp4'
   tags:
     - hellomori
     - episode
@@ -3187,7 +3189,7 @@ hallomori_episode_first_half_4:
 hallomori_episode_first_half_5:
   idol_id: 1
   text: でも、ハロウィンは楽しみですね。お祭りの日は普段と違って、みんなのいろんな一面が見られると思うから…
-  voice: '9900014/0c693440c96cd4cceeb4456145e6c303.mp4'
+  voice: '/sound/9900014/0c693440c96cd4cceeb4456145e6c303.mp4'
   tags:
     - hellomori
     - episode
@@ -3197,7 +3199,7 @@ hallomori_episode_first_half_5:
 hallomori_episode_first_half_6:
   idol_id: 1
   text: 私の一面は…きっと、普段と変わらないと思いますけど…。仮装とかも…ちょっと、恥ずかしいですし
-  voice: '9900014/08cd73f1db0790c562f44ea38ebc8226.mp4'
+  voice: '/sound/9900014/08cd73f1db0790c562f44ea38ebc8226.mp4'
   tags:
     - hellomori
     - episode
@@ -3207,7 +3209,7 @@ hallomori_episode_first_half_6:
 hallomori_episode_first_half_7:
   idol_id: 1
   text: 私はやっぱり…プロデューサーさんの一面が知りたいですね。なんて、もし良かったら…ですけど
-  voice: '9900014/f153aaffc9f1a223652910f06cce6c06.mp4'
+  voice: '/sound/9900014/f153aaffc9f1a223652910f06cce6c06.mp4'
   tags:
     - hellomori
     - episode
@@ -3217,7 +3219,7 @@ hallomori_episode_first_half_7:
 hallomori_episode_second_half_1:
   idol_id: 11
   text: ふふっ、プロデューサーさん、お疲れさまです。今日も素敵な笑顔ですね。
-  voice: '9900015/73c99533d15a4b2bf169b0efea813ded.mp4'
+  voice: '/sound/9900015/73c99533d15a4b2bf169b0efea813ded.mp4'
   tags:
     - hellomori
     - episode
@@ -3227,7 +3229,7 @@ hallomori_episode_second_half_1:
 hallomori_episode_second_half_2:
   idol_id: 11
   text: ハロウィンも本番ですね。でも、やっぱり私…コスプレとかは、勇気が持てなくって…その、期待してたらすみません
-  voice: '9900015/b2fa1c811b6b124006a39ee3e78495ab.mp4'
+  voice: '/sound/9900015/b2fa1c811b6b124006a39ee3e78495ab.mp4'
   tags:
     - hellomori
     - episode
@@ -3237,7 +3239,7 @@ hallomori_episode_second_half_2:
 hallomori_episode_second_half_3:
   idol_id: 11
   text: あっ、でもハロウィンって素敵なイベントですよね。お散歩してたら素敵な飾り付けのカフェがあったんです。見に行きませんか?
-  voice: '9900015/2dcef72138eb3bbc794ac42e75c2cf22.mp4'
+  voice: '/sound/9900015/2dcef72138eb3bbc794ac42e75c2cf22.mp4'
   tags:
     - hellomori
     - episode
@@ -3247,7 +3249,7 @@ hallomori_episode_second_half_3:
 hallomori_episode_second_half_4:
   idol_id: 11
   text: ほら…着きました。見てください、素敵な飾り付け…。ガーデニングもいいですけど、こんなデコレーションもいいですね
-  voice: '9900015/1348e439e5522c3474813e4f2924bf1f.mp4'
+  voice: '/sound/9900015/1348e439e5522c3474813e4f2924bf1f.mp4'
   tags:
     - hellomori
     - episode
@@ -3257,7 +3259,7 @@ hallomori_episode_second_half_4:
 hallomori_episode_second_half_5:
   idol_id: 11
   text: あら…黒猫さん。ハロウィン風の飾り付けも合わさって、とってもいい雰囲気ですね。写真、撮ってもいいかな…?
-  voice: '9900015/284accc57907e24e61b177ea403bf9b2.mp4'
+  voice: '/sound/9900015/284accc57907e24e61b177ea403bf9b2.mp4'
   tags:
     - hellomori
     - episode
@@ -3267,7 +3269,7 @@ hallomori_episode_second_half_5:
 hallomori_episode_second_half_6:
   idol_id: 11
   text: ふふ、撮れました。今日の素敵な1枚です。こうして毎日の、小さな、きらきらしたことを写真におさめてるんです。
-  voice: '9900015/7cf074bfc448a990a69518e1ccecb43e.mp4'
+  voice: '/sound/9900015/7cf074bfc448a990a69518e1ccecb43e.mp4'
   tags:
     - hellomori
     - episode
@@ -3277,10 +3279,366 @@ hallomori_episode_second_half_6:
 hallomori_episode_second_half_7:
   idol_id: 11
   text: でも、もっともっと写真におさめたいものがいっぱいあります。たとえば…プロデューサーさんの、優しい眼差し…とか…
-  voice: '9900015/5aefd5317ab475fde52ece63e2397428.mp4'
+  voice: '/sound/9900015/5aefd5317ab475fde52ece63e2397428.mp4'
   tags:
     - hellomori
     - episode
     - second_half
     - voice
+
+cdsr_join:
+  idol_id: 13
+  text: ○○さんのおかげで、私もついにCDデビューできました。みんなが私の歌を聴いて、優しい気持ちになってくれたら嬉しいな…
+  tags:
+    - join
+
+cdsr_profile:
+  idol_id: 13
+  text: 私の歌がCDになるんですね…今、私、幸せな気持ちでいっぱいですっ…！　この気持ち、もっとたくさんの人に届けたいです！　ここがゴールじゃなくて、ここからがスタート、ですねっ
+  tags:
+    - profile
+
+cdsr_loveup:
+  idol_id: 13
+  text: ほらっ♪　○○さん、風が気持ちいいですよっ
+  tags:
+    - loveup
+
+cdsr_lovemax:
+  idol_id: 13
+  text: ○○さんが私をこんなに幸せにしてくれたから、きっと私も誰かを幸せに出来るはず…私、頑張りますねっ
+  tags:
+    - lovemax
+
+cdsr_leader:
+  idol_id: 13
+  text: ゆっくりしましょうか♪
+  tags:
+    - leader
+
+cdsr_front1:
+  idol_id: 13
+  text: ○○さん、衣装で記念撮影したいですっ
+  tags:
+    - front
+
+cdsr_front2:
+  idol_id: 13
+  text: 優しい気持ちになれる曲です♪
+  tags:
+    - front
+
+cdsr_front3:
+  idol_id: 13
+  text: みんなの笑顔が見たいなっ
+  tags:
+    - front
+
+cdsr_front4:
+  idol_id: 13
+  text: （お花、いい匂い…）
+  tags:
+    - front
+
+cdsr_front5:
+  idol_id: 13
+  text: とっておきのカフェで打ち上げしませんかっ？　その、二人で…
+  tags:
+    - front
+
+cdsr_work1:
+  idol_id: 13
+  text: スタジオに風が…扇風機ですか？
+  tags:
+    - work
+
+cdsr_work2:
+  idol_id: 13
+  text: 今、とっても幸せです！
+  tags:
+    - work
+
+cdsr_work3:
+  idol_id: 13
+  text: ゆっくり聞いてほしいな
+  tags:
+    - work
+
+cdsr_work4:
+  idol_id: 13
+  text: この衣装、ふわふわで嬉しいですっ♪　ふわふわ～…ふふっ
+  tags:
+    - work
+
+cdsr_work5:
+  idol_id: 13
+  text: ○○さん、このままお散歩しませんか？　うふふ♪
+  tags:
+    - work
+
+cdsr_p_profile:
+  idol_id: 14
+  text: アイドルになって本当に良かったって、今、心からそう思えます。ファンのみなさんが優しい気持ちになれるような、微笑んでくれるようなアイドルに一歩近づけたって思うから…！
+  tags:
+    - profile
+
+cdsr_p_loveup:
+  idol_id: 14
+  text: ○○さんと過ごす毎日が、私の宝物ですっ
+  tags:
+    - loveup
+
+cdsr_p_lovemax:
+  idol_id: 14
+  text: ○○さん､これからも二人で幸せをつくっていきましょうねっ！ …って､あ…あの､深い意味は無いですからねっ！？
+  tags:
+    - lovemax
+
+cdsr_p_leader:
+  idol_id: 14
+  text: もっとのんびりしましょ♪
+  tags:
+    - leader
+
+cdsr_p_front1:
+  idol_id: 14
+  text: みんなの笑顔が見たいなっ
+  tags:
+    - front
+
+cdsr_p_front2:
+  idol_id: 14
+  text: この気持ち、届いてますか？
+  tags:
+    - front
+
+cdsr_p_front3:
+  idol_id: 14
+  text: うふふ、ステージからみんなの笑顔が見えてますよっ
+  tags:
+    - front
+
+cdsr_p_front4:
+  idol_id: 14
+  text: 優しい気持ちになれる曲です♪
+  tags:
+    - front
+
+cdsr_p_front5:
+  idol_id: 14
+  text: ○○さんもほらっ､いっしょに笑ってください♪
+  tags:
+    - front
+
+cdsr_p_work1:
+  idol_id: 14
+  text: 今、とっても幸せです！
+  tags:
+    - work
+
+cdsr_p_work2:
+  idol_id: 14
+  text: 座って歌っていたら、しっかりみんなの顔が見えますね
+  tags:
+    - work
+
+cdsr_p_work3:
+  idol_id: 14
+  text: ゆっくり聞いてほしいな
+  tags:
+    - work
+
+cdsr_p_work4:
+  idol_id: 14
+  text: ゆっくり…し過ぎですか？
+  tags:
+    - work
+
+cdsr_p_work5:
+  idol_id: 14
+  text: ○○さんとだから、こんなに幸せに歌えるんですよっ
+  tags:
+    - work
+
+delemori:
+  idol_id: 15
+  text: 私を支えてくれるのは沢山のファンのみんなの声援と、プロデューサーさんの笑顔なんです。私…まだまだがんばれますっ
+  tags:
+    - join
+
+delemori:
+  idol_id: 15
+  text: たくさんの人を笑顔にできるように…これからもプロデューサーさんと一緒にアイドル続けていきたいです
+  tags:
+    - join
+
+delemori:
+  idol_id: 15
+  text: 私、アイドルになるときに抱いた気持ちを、ずっと持っていようって思ってるんです。ファンのみなさんが優しい気持ちになれるように…って。それが私の…アイドルとしての理想ですね。ふふっ
+  voice: ''
+  tags:
+    - profile
+
+      #########################
+deremori_loveup:
+  idol_id: 15
+  text: 
+  tags:
+    - loveup
+
+deremori_lovemax:
+  idol_id: 15
+  text: 
+  tags:
+    - lovemax
+
+deremori_leader:
+  idol_id: 15
+  text: 
+  tags:
+    - leader
+
+deremori_front1:
+  idol_id: 15
+  text: 
+  tags:
+    - front
+
+deremori_front2:
+  idol_id: 15
+  text: 
+  tags:
+    - front
+
+deremori_front3:
+  idol_id: 15
+  text: 
+  tags:
+    - front
+
+deremori_front4:
+  idol_id: 15
+  text: 
+  tags:
+    - front
+
+deremori_front5:
+  idol_id: 15
+  text: 
+  tags:
+    - front
+
+deremori_work1:
+  idol_id: 15
+  text:
+  tags:
+    - work
+
+deremori_work2:
+  idol_id: 15
+  text:
+  tags:
+    - work
+
+deremori_work3:
+  idol_id: 15
+  text:
+  tags:
+    - work
+
+deremori_work4:
+  idol_id: 15
+  text: 
+  tags:
+    - work
+
+deremori_work5:
+  idol_id: 15
+  text: 
+  tags:
+    - work
+
+deremori_p_profile:
+  idol_id: 16
+  text: アイドルになって本当に良かったって、今、心からそう思えます。ファンのみなさんが優しい気持ちになれるような、微笑んでくれるようなアイドルに一歩近づけたって思うから…！
+  tags:
+    - profile
+
+deremori_p_loveup:
+  idol_id: 16
+  text: ○○さんと過ごす毎日が、私の宝物ですっ
+  tags:
+    - loveup
+
+deremori_p_lovemax:
+  idol_id: 16
+  text: ○○さん､これからも二人で幸せをつくっていきましょうねっ！ …って､あ…あの､深い意味は無いですからねっ！？
+  tags:
+    - lovemax
+
+deremori_p_leader:
+  idol_id: 16
+  text: もっとのんびりしましょ♪
+  tags:
+    - leader
+
+deremori_p_front1:
+  idol_id: 16
+  text: みんなの笑顔が見たいなっ
+  tags:
+    - front
+
+deremori_p_front2:
+  idol_id: 16
+  text: この気持ち、届いてますか？
+  tags:
+    - front
+
+deremori_p_front3:
+  idol_id: 16
+  text: うふふ、ステージからみんなの笑顔が見えてますよっ
+  tags:
+    - front
+
+deremori_p_front4:
+  idol_id: 16
+  text: 優しい気持ちになれる曲です♪
+  tags:
+    - front
+
+deremori_p_front5:
+  idol_id: 16
+  text: ○○さんもほらっ､いっしょに笑ってください♪
+  tags:
+    - front
+
+deremori_p_work1:
+  idol_id: 16
+  text: 今、とっても幸せです！
+  tags:
+    - work
+
+deremori_p_work2:
+  idol_id: 16
+  text: 座って歌っていたら、しっかりみんなの顔が見えますね
+  tags:
+    - work
+
+deremori_p_work3:
+  idol_id: 16
+  text: ゆっくり聞いてほしいな
+  tags:
+    - work
+
+deremori_p_work4:
+  idol_id: 16
+  text: ゆっくり…し過ぎですか？
+  tags:
+    - work
+
+deremori_p_work5:
+  idol_id: 16
+  text: ○○さんとだから、こんなに幸せに歌えるんですよっ
+  tags:
+    - work
 
