@@ -10,12 +10,14 @@ normal_profile:
 normal_loveup:
   idol_id: 1
   text: ○○プロデューサー、いつもありがとうございますっ
+  voice: '/sound/3000201/f7308cf637ae10c6df88f8f56d330994.mp4'
   tags:
     - loveup
 
 normal_lovemax:
   idol_id: 1
   text: アイドルを目指すの、ホントはちょっと怖かったんです。でも○○プロデューサーが支えてくれるから私は今日も笑顔ですっ
+  voice: '/sound/3000201/4f28acc59292fdd155ccb69951e22d4f.mp4'
   tags:
     - lovemax
 
@@ -29,66 +31,77 @@ normal_leader:
 normal_front1:
   idol_id: 1
   text: ○○プロデューサー、どうもこんにちは
+  voice: '/sound/3000201/f5cb4dfe5f7b71922316ce00b55df1b7.mp4'
   tags:
     - front
 
 normal_front2:
   idol_id: 1
   text: いい日になるといいですね
+  voice: '/sound/3000201/92b70ec4a6b143c7157471ec2f97a9db.mp4'
   tags:
     - front
 
 normal_front3:
   idol_id: 1
   text: いつもお疲れ様です
+  voice: '/sound/3000201/25d046c4ee2c8c08f163aa073542b855.mp4'
   tags:
     - front
 
 normal_front4:
   idol_id: 1
   text: 私、頑張れてるかな…？
+  voice: '/sound/3000201/19149c0be65b563d0b7ada48905aa2fd.mp4'
   tags:
     - front
 
 normal_front5:
   idol_id: 1
   text: ○○プロデューサーっ、今日は何をしましょうかっ
+  voice: '/sound/3000201/d2544deb1a04b52b1af862cc179fb22e.mp4'
   tags:
     - front
 
 normal_work1:
   idol_id: 1
   text: ちょっと恥ずかしいかも…
+  voice: '/sound/3000201/aa5ba170aaae6c2479b19ca2dd7b3003.mp4'
   tags:
     - work
 
 normal_work2:
   idol_id: 1
   text: ○○プロデューサー、悪いとこがあったら教えてください
+  voice: '/sound/3000201/668adc79504c08dd55963c76ec2358e6.mp4'
   tags:
     - work
 
 normal_work3:
   idol_id: 1
   text: 精一杯頑張りますっ
+  voice: '/sound/3000201/5efe07503c7d1beee5e97906dfd21791.mp4'
   tags:
     - work
 
 normal_work4:
   idol_id: 1
   text: ありがとうございましたっ
+  voice: '/sound/3000201/249b474aad7a3f4030015ea4f25528c8.mp4'
   tags:
     - work
 
 normal_work5:
   idol_id: 1
   text: よかった、○○プロデューサーがいてくれるなら安心…
+  voice: '/sound/3000201/eab28de015599db879399b2db63537f3.mp4'
   tags:
     - work
 
 normal_p_profile:
   idol_id: 2
   text: ファンのみなさんの笑顔、一人一人ちゃんと覚えるようにしてるんです。つらくてもそれを思い出せば、いつでも幸せな気持ちになれますからねっ。幸せな気持ち、大事ですっ。
+  voice: '/sound/3100202/12ff301ee4f02f3fa511f58c9e94418f.mp4'
   tags:
     - profile
     - plus
@@ -96,6 +109,7 @@ normal_p_profile:
 normal_p_loveup:
   idol_id: 2
   text: ○○さんも今､幸せな気持ちだといいな……
+  voice: '/sound/3100202/0ce62921823212dd1f0c1b1eb014f8ad.mp4'
   tags:
     - loveup
     - plus
@@ -103,12 +117,14 @@ normal_p_loveup:
 normai_p_lovemax:
   idol_id: 2
   text: こんなこと言っちゃアイドル失格かもしれませんけど…私、誰よりも○○さんの笑顔を見るのが、す、好きなんですよ
+  voice: '/sound/3100202/e30a2b83f594512c9a9c570c20c16c85.mp4'
   tags:
     - lovemax, plus
 
 normal_p_leader:
   idol_id: 2
   text: よろしくお願いしますっ
+  voice: '/sound/3100202/5b2c45808179e953ccd1ba56d6e1b654.mp4'
   tags:
     - leader
     - plus
@@ -116,6 +132,7 @@ normal_p_leader:
 normal_p_front1:
   idol_id: 2
   text: いつもお疲れ様です
+  voice: '/sound/3100202/9e4aab744db602dd6f790e9afdbbe8cd.mp4'
   tags:
     - front
     - plus
@@ -123,13 +140,15 @@ normal_p_front1:
 normal_p_front2:
   idol_id: 2
   text: いい日になるといいですね
+  voice: '/sound/3100202/12cc50315b8ad10cc20b6d890c793d63.mp4'
   tags:
     - front
     - plus
 
 normal_p_front3:
   idol_id: 2
-  text: いい天気だと眠くなっちゃいますね、○○プロデューサー
+  text: いい天気だと眠くなっちゃいますね、プロデューサー
+  voice: '/sound/3100202/987058d1ddf19dc18b7a3e89233b51fe.mp4'
   tags:
     - front
     - plus
@@ -137,6 +156,7 @@ normal_p_front3:
 normal_p_front4:
   idol_id: 2
   text: お散歩しませんか？
+  voice: '/sound/3100202/643a889aab6a52091bb5f02fc78c0635.mp4'
   tags:
     - front
     - plus
@@ -144,6 +164,7 @@ normal_p_front4:
 normal_p_front5:
   idol_id: 2
   text: すー…すー……あのね、わたし…○○さんのこと……
+  voice: '/sound/3100202/ffdcff590d5bd1a62a74ef1e84ae002c.mp4'
   tags:
     - front
     - plus
@@ -151,6 +172,7 @@ normal_p_front5:
 normal_p_work1:
   idol_id: 2
   text: 精一杯頑張りますっ
+  voice: '/sound/3100202/ccd15fabbeb21e3fed4ab13f1f77aadc.mp4'
   tags:
     - work
     - plus
@@ -158,6 +180,7 @@ normal_p_work1:
 normal_p_work2:
   idol_id: 2
   text: みなさんを笑顔にしてきますっ
+  voice: '/sound/3100202/00c0f3e6723c7a4fe1e3baf303735be8.mp4'
   tags:
     - work
     - plus
@@ -165,6 +188,7 @@ normal_p_work2:
 normal_p_work3:
   idol_id: 2
   text: ありがとうございましたっ
+  voice: '/sound/3100202/af15979ab896be3120cbb50358fc5388.mp4'
   tags:
     - work
     - plus
@@ -172,6 +196,7 @@ normal_p_work3:
 normal_p_work4:
   idol_id: 2
   text: ファンのみなさんと○○プロデューサーのために、私頑張るっ
+  voice: '/sound/3100202/0996a08b07e2caf9c4dfca2820ce528c.mp4'
   tags:
     - work
     - plus
@@ -179,6 +204,7 @@ normal_p_work4:
 normal_p_work5:
   idol_id: 2
   text: あ、○○さんが笑ってる。私、上手くできたのかな？
+  voice: '/sound/3100202/00b33828c9bb13c5de56029f3eaca969.mp4'
   tags:
     - work
     - plus
