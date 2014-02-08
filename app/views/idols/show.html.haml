@@ -15,7 +15,12 @@
 
 %ul
   - @idol.words.each do |word|
-    %li= "#{@idol.name}: #{word.text}"
+    - if word.voice.nil?
+      %li= "#{@idol.name}: #{word.text}"
+    - else
+      %li
+        #{@idol.name}:
+        %a{:href => "http://idolmaster.edgesuite.net/idolmaster/#{word.voice}"}= " #{word.text}"
 
 %div
   %a{:href => aiko_api_path(params[:id])} json

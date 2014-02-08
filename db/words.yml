@@ -3460,101 +3460,100 @@ cdsr_p_work5:
   tags:
     - work
 
-delemori:
+delemori_join1:
   idol_id: 15
   text: 私を支えてくれるのは沢山のファンのみんなの声援と、プロデューサーさんの笑顔なんです。私…まだまだがんばれますっ
   tags:
     - join
 
-delemori:
+delemori_join2:
   idol_id: 15
   text: たくさんの人を笑顔にできるように…これからもプロデューサーさんと一緒にアイドル続けていきたいです
   tags:
     - join
 
-delemori:
+delemori_profile:
   idol_id: 15
   text: 私、アイドルになるときに抱いた気持ちを、ずっと持っていようって思ってるんです。ファンのみなさんが優しい気持ちになれるように…って。それが私の…アイドルとしての理想ですね。ふふっ
-  voice: ''
+  voice: '/sound/3411301/ea4de5757f0b95e7108acb4c81900cb0.mp4'
   tags:
     - profile
 
-      #########################
 deremori_loveup:
   idol_id: 15
-  text: 
+  text: 一緒にお仕事してると楽しくて…気分がよくなっちゃいますね
   tags:
     - loveup
 
 deremori_lovemax:
   idol_id: 15
-  text: 
+  text: ○○さんには感謝してるんです。私を信じてプロデュースしてくれたんですもの。…いつかきっと、お返ししますから
   tags:
     - lovemax
 
 deremori_leader:
   idol_id: 15
-  text: 
+  text: 私もきらきら輝けるかな?
   tags:
     - leader
 
 deremori_front1:
   idol_id: 15
-  text: 
+  text: 笑顔なら幸せがやってきますよ
   tags:
     - front
 
 deremori_front2:
   idol_id: 15
-  text: 
+  text: 夢はささやかでも、幸せですっ
   tags:
     - front
 
 deremori_front3:
   idol_id: 15
-  text: 
+  text: みんな仲良く、大事なことです
   tags:
     - front
 
 deremori_front4:
   idol_id: 15
-  text: 
+  text: お散歩とティータイム、心がほっこりする秘訣です。オススメですよ♪
   tags:
     - front
 
 deremori_front5:
   idol_id: 15
-  text: 
+  text: ○○さんと一緒に…優しい気持ちになれたらいいな
   tags:
     - front
 
 deremori_work1:
   idol_id: 15
-  text:
+  text: 今日もいいお仕事しましょうね
   tags:
     - work
 
 deremori_work2:
   idol_id: 15
-  text:
+  text: お散歩したいな…あ、衣装…
   tags:
     - work
 
 deremori_work3:
   idol_id: 15
-  text:
+  text: ゆっくりでも、いいんですよ?
   tags:
     - work
 
 deremori_work4:
   idol_id: 15
-  text: 
+  text: 誰かの特別もいいけど、みんなの笑顔のためにがんばりたいな
   tags:
     - work
 
 deremori_work5:
   idol_id: 15
-  text: 
+  text: 頑張った自分を褒めていいんですよ。私も褒めますから。ふふっ
   tags:
     - work
 
@@ -3641,4 +3640,3 @@ deremori_p_work5:
   text: ○○さんとだから、こんなに幸せに歌えるんですよっ
   tags:
     - work
-
