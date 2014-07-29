@@ -2,7 +2,7 @@
 
 normal_profile:
   idol_id: 1
-  text: はじめまして、プロデューサーさん、ファンのみなさんが優しい気持ちになれるような、微笑んでくれるようなアイドルを目指したいと思っているんです。よろしくお願いしますねっ。
+  text: はじめまして、○○さん、ファンのみなさんが優しい気持ちになれるような、微笑んでくれるようなアイドルを目指したいと思っているんです。よろしくお願いしますねっ。
   voice: '/sound/3000201/5f46c26436eed7cbf6bb6b52be22b520.mp4'
   tags:
     - profile
@@ -250,7 +250,7 @@ normal_p_isurv_5:
 
 valemori_profile:
   idol_id: 3
-  text: 大切なイベントの記念日を写真におさめようかと思って、カメラを持ってきたんですよ。みんなで楽しく過ごせればいいなって思って…だからほら、プロデューサーさんも一緒に笑ってください
+  text: 大切なイベントの記念日を写真におさめようかと思って、カメラを持ってきたんですよ。みんなで楽しく過ごせればいいなって思って…だからほら、○○さんも一緒に笑ってください
   tags:
     - profile
 
@@ -552,90 +552,105 @@ valemori_event_boss5_end:
 funwari_girl_profile:
   idol_id: 5
   text: 風が気持ち良いっ！ こんな日はお散歩したいですね。でも、すぐにお仕事の時間が来ちゃうからゆっくりできないかな？ でもいいんです。私、○○さんとのお仕事、好きですから！
+  voice: '/sound/3204601/31ffdbf60116bfa3e3379d5f4e563fdc.mp4'
   tags:
     - profile
 
 funwari_girl_loveup:
   idol_id: 5
   text: ○○さんには、感謝の気持ちだけじゃ足りませんね！
+  voice: '/sound/3204601/6ae5aeb40ef42b2c5b0cac68a8ce01c7.mp4'
   tags:
     - loveup
 
 funwari_girl_lovemax:
   idol_id: 5
   text: アイドル向いていないって思った日もあったんです。私みたいな普通の子じゃダメかなって。でも、今は続けてよかったと思ってます！
+  voice: '/sound/3204601/6cc96648185c72151ace91c5ffea0b3d.mp4'
   tags:
     - lovemax
 
 funwari_girl_leader:
   idol_id: 5
   text: 一緒に頑張りましょう
+  voice: '/sound/3204601/5ed212c8567a93bf47819dd096a1e7f1.mp4'
   tags:
     - leader
 
 funwari_girl_front1:
   idol_id: 5
   text: 一緒にお散歩しに行きます？
+  voice: '/sound/3204601/ad7de715aad2b33b004a99844b577404.mp4'
   tags:
     - front
 
 funwari_girl_front2:
   idol_id: 5
   text: 風が吹くと気持ちいいですね…
+  voice: '/sound/3204601/b891b6b776f5e5d19a37f41fc8c94276.mp4'
   tags:
     - front
 
 funwari_girl_front3:
   idol_id: 5
   text: この前、菜帆ちゃんとお散歩したら和菓子屋さんを見つけたの！
+  voice: '/sound/3204601/35b8e7230f861dd94a02d69e1334772b.mp4'
   tags:
     - front
 
 funwari_girl_front4:
   idol_id: 5
   text: 最近はお菓子作りにハマってます
+  voice: '/sound/3204601/d289473d55956fb5b8ba5e9db7de845d.mp4'
   tags:
     - front
 
 funwari_girl_front5:
   idol_id: 5
   text: ふふっ○○さん、休むのもお仕事ですよっ、ね？
+  voice: '/sound/3204601/955843d02802df9b2fa0dfaa589c3dcc.mp4'
   tags:
     - front
 
 funwari_girl_work1:
   idol_id: 5
   text: 色んなお仕事、楽しいなって！
+  voice: '/sound/3204601/2d09b24a8e9b83e7aa0b644fde266949.mp4'
   tags:
     - work
 
 funwari_girl_work2:
   idol_id: 5
   text: もっと弾けちゃいますよーっ！
+  voice: '/sound/3204601/3468d023d113321339f7ebe13ca67632.mp4'
   tags:
     - work
 
 funwari_girl_work3:
   idol_id: 5
   text: 笑顔がいいって褒められました
+  voice: '/sound/3204601/da28c49fb8baa8152e43e9978e681b19.mp4'
   tags:
     - work
 
 funwari_girl_work4:
   idol_id: 5
   text: ○○さん、ファンの人が手紙をくれて…私、嬉しくて…
+  voice: '/sound/3204601/b8a55d877ee43edf5592d8b85abedc0e.mp4'
   tags:
     - work
 
 funwari_girl_work5:
   idol_id: 5
   text: ○○さんは私をその気にさせる天才ですねっ
+  voice: '/sound/3204601/4c1db138933858ee8a1e221911b67077.mp4'
   tags:
     - work
 
 funwari_girl_p_profile:
   idol_id: 6
   text: "私､ライブはファン方を身近に感じられるから好きなんです! ほら､私たちを呼ぶ声があんなに大きく聞こえる｡行ってきますね! ファンのみんなと､○○さんのために歌ってきますっ!"
+  voice: '/sound/3304602/bc96b426267dd883320275e3653a2389.mp4'
   tags:
     - profile
     - plus
@@ -643,6 +658,7 @@ funwari_girl_p_profile:
 funwari_girl_p_loveup:
   idol_id: 6
   text: ○○さんの笑顔を見たら、疲れも吹っ飛んじゃいます!
+  voice: '/sound/3304602/b0c875c0d2049cccb99e15edea33ba4d.mp4'
   tags:
     - loveup
     - plus
@@ -650,6 +666,7 @@ funwari_girl_p_loveup:
 funwari_girl_p_lovemax:
   idol_id: 6
   text: ○○さんにこんなこと言ったらアイドル失格かもしれませんけど、私…やっぱりあなたの笑顔が大好きですからっ!
+  voice: '/sound/3304602/08316ea7312ea80dbbd0df459022c620.mp4'
   tags:
     - lovemax
     - plus
@@ -657,6 +674,7 @@ funwari_girl_p_lovemax:
 funwari_girl_p_leader:
   idol_id: 6
   text: 精一杯、表現しますねっ!
+  voice: '/sound/3304602/a48cea3c28c595615b576c327ba87b33.mp4'
   tags:
     - leader
     - plus
@@ -664,6 +682,7 @@ funwari_girl_p_leader:
 funwari_girl_p_front1:
   idol_id: 6
   text: 一緒にお散歩しに行きます?
+  voice: '/sound/3304602/33b5142554964a25286f111af783cf76.mp4'
   tags:
     - front
     - plus
@@ -671,6 +690,7 @@ funwari_girl_p_front1:
 funwari_girl_p_front2:
   idol_id: 6
   text: 風が吹くと気持ちいいですね…
+  voice: '/sound/3304602/2222c7b86466a9be05a25282a675ba89.mp4'
   tags:
     - front
     - plus
@@ -678,6 +698,7 @@ funwari_girl_p_front2:
 funwari_girl_p_front3:
   idol_id: 6
   text: みんなの笑顔が最高の宝物です
+  voice: '/sound/3304602/18815959156173633e03daa6176fd092.mp4'
   tags:
     - front
     - plus
@@ -685,6 +706,7 @@ funwari_girl_p_front3:
 funwari_girl_p_front4:
   idol_id: 6
   text: 皆元気でまとまりないから､ついまとめ役になっちゃうんです!
+  voice: '/sound/3304602/ef59f990fd606331b802c5bb1e77ff00.mp4'
   tags:
     - front
     - plus
@@ -692,6 +714,7 @@ funwari_girl_p_front4:
 funwari_girl_p_front5:
   idol_id: 6
   text: 私、○○さんと一緒に写真撮りたいな…お願いですっ!
+  voice: '/sound/3304602/93c5ecbfb7851295295625fe81bb4958.mp4'
   tags:
     - front
     - plus
@@ -699,6 +722,7 @@ funwari_girl_p_front5:
 funwari_girl_p_work1:
   idol_id: 6
   text: 色んなお仕事､楽しいなって!
+  voice: '/sound/3304602/63f9805f1f381cdd150b26f05efe4df5.mp4'
   tags:
     - work
     - plus
@@ -706,6 +730,7 @@ funwari_girl_p_work1:
 funwari_girl_p_work2:
   idol_id: 6
   text: 笑顔がいいって褒められました
+  voice: '/sound/3304602/d22f3c7c8c900a7fdc99d42481d55e36.mp4'
   tags:
     - work
     - plus
@@ -713,6 +738,7 @@ funwari_girl_p_work2:
 funwari_girl_p_work3:
   idol_id: 6
   text: このお花は夕美ちゃんセレクトです
+  voice: '/sound/3304602/19f3243fde5ecd55acce1bfc12696820.mp4'
   tags:
     - work
     - plus
@@ -720,6 +746,7 @@ funwari_girl_p_work3:
 funwari_girl_p_work4:
   idol_id: 6
   text: ○○さんとお仕事してると､自然と笑顔になってます
+  voice: '/sound/3304602/7660bcec58de0d366636e4f9185291a8.mp4'
   tags:
     - work
     - plus
@@ -727,6 +754,7 @@ funwari_girl_p_work4:
 funwari_girl_p_work5:
   idol_id: 6
   text: 今日の私も明日の私も覚えててください、○○さん
+  voice: '/sound/3304602/b6c370df9e4f9c910c0483386219d499.mp4'
   tags:
     - work
     - plus
@@ -734,90 +762,105 @@ funwari_girl_p_work5:
 anniv_yellow_profile:
   idol_id: 7
   text: みんなで記念日をお祝いするって聞いたんですけど…なんだか不思議な感じがしますね｡私がアイドルになってもうそんなに経ったなんて…○○さんもそう思いませんか？
+  voice: '/sound/3207601/1c80b78945e0b78b7f0279b10cf6152b.mp4'
   tags:
     - profile
 
 anniv_yellow_loveup:
   idol_id: 7
   text: ○○さん､今日も一緒にがんばりましょうね！
+  voice: '/sound/3207601/d48ac0a1225833530cc707dea05b375a.mp4'
   tags:
     - loveup
 
 anniv_yellow_lovemax:
   idol_id: 7
   text: こんな私がアイドルとしてお仕事を続けてこれたのは○○さんのおかげですよ！ さすがは名プロデューサーさんですね♪
+  voice: '/sound/3207601/2960046f84247df68ad852cea0da41f0.mp4'
   tags:
     - lovemax
 
 anniv_yellow_leader:
   idol_id: 7
   text: 楽しみましょう！
+  voice: '/sound/3207601/1bf7c895352211beba3b18b3e96486c8.mp4'
   tags:
     - leader
 
 anniv_yellow_front1:
   idol_id: 7
   text: 皆で笑顔になれたらいいなって
+  voice: '/sound/3207601/134677c67ddc45a0955e463a174ecde0.mp4'
   tags:
     - front
 
 anniv_yellow_front2:
   idol_id: 7
   text: 時間が過ぎるのって早いですね
+  voice: '/sound/3207601/637e9bda8de8a884cf5ee0f9b695d5f8.mp4'
   tags:
     - front
 
 anniv_yellow_front3:
   idol_id: 7
   text: 写真撮りましょうか？これ、小さいけど撮れるんです…トイカメラ♪
+  voice: '/sound/3207601/a5b5ce1836c82320600a5fe5ea345572.mp4'
   tags:
     - front
 
 anniv_yellow_front4:
   idol_id: 7
   text: 乾杯、しましょうか？
+  voice: '/sound/3207601/f2db978c2c2474095948bdd1019398e2.mp4'
   tags:
     - front
 
 anniv_yellow_front5:
   idol_id: 7
   text: ○○さんやみんなの笑顔があるこの時間…ステキですね
+  voice: '/sound/3207601/8b53d65c67e34bf4725094ef43ec48c0.mp4'
   tags:
     - front
 
 anniv_yellow_work1:
   idol_id: 7
   text: みんなで息を合わせて…
+  voice: '/sound/3207601/dea81512134931e818a3b069bd2f5f91.mp4'
   tags:
     - work
 
 anniv_yellow_work2:
   idol_id: 7
   text: みんなが優しくなれるように♪
+  voice: '/sound/3207601/279fbc65c533001ec407d764b5e9cfee.mp4'
   tags:
     - work
 
 anniv_yellow_work3:
   idol_id: 7
   text: みんなを笑顔にしたいですね
+  voice: '/sound/3207601/40ac4537b06711ba338946444d644033.mp4'
   tags:
     - work
 
 anniv_yellow_work4:
   idol_id: 7
   text: 私には私のペースがあるんですよね｡のんびり行きましょう♪
+  voice: '/sound/3207601/e7da985b0af2749aecd78b4ac27e7843.mp4'
   tags:
     - work
 
 anniv_yellow_work5:
   idol_id: 7
   text: ○○さんが一緒にいるからお仕事続けていけるんです
+  voice: '/sound/3207601/cf6bd8173fd05595b27b11661601f7c1.mp4'
   tags:
     - work
 
 anniv_yellow_p_profile:
   idol_id: 8
   text: 私…このステージでみんなとLIVE出来て、本当に幸せです。こんなにたくさんのファンに私たちの歌を聴いてもらえるなんて…胸がいっぱいで…。やっぱり、アイドルのお仕事って、楽しいです！
+  voice: '/sound/3307602/ecdea009d5c31b455534d3b953dfa6f6.mp4'
   tags:
     - profile
     - plus
@@ -825,6 +868,7 @@ anniv_yellow_p_profile:
 anniv_yellow_p_loveup:
   idol_id: 8
   text: ○○さん、これからもずっと、一緒にお仕事して下さい
+  voice: '/sound/3307602/c47550606f11c283f1c972a7d17455a5.mp4'
   tags:
     - loveup
     - plus
@@ -832,6 +876,7 @@ anniv_yellow_p_loveup:
 anniv_yellow_p_lovemax:
   idol_id: 8
   text: ファンのみなさんが優しい気持ちになって笑顔になってくれたら嬉しいな。もちろん、○○さんだって…ですよ♪
+  voice: '/sound/3307602/c51f353979f72c091ed613703f199227.mp4'
   tags:
     - lovemax
     - plus
@@ -839,6 +884,7 @@ anniv_yellow_p_lovemax:
 anniv_yellow_p_leader:
   idol_id: 8
   text: みんな、ありがとうっ！
+  voice: '/sound/3307602/a398aa864de9b58310e916de72576166.mp4'
   tags:
     - leader
     - plus
@@ -846,6 +892,7 @@ anniv_yellow_p_leader:
 anniv_yellow_p_front1:
   idol_id: 8
   text: 皆で笑顔になれたらいいなって
+  voice: '/sound/3307602/613c0505d213b9e93543e65a70ea3a3e.mp4'
   tags:
     - front
     - plus
@@ -853,6 +900,7 @@ anniv_yellow_p_front1:
 anniv_yellow_p_front2:
   idol_id: 8
   text: 時間が過ぎるのって早いですね
+  voice: '/sound/3307602/279b0c8da5cf5d41359ad2c0572d1a3d.mp4'
   tags:
     - front
     - plus
@@ -860,6 +908,7 @@ anniv_yellow_p_front2:
 anniv_yellow_p_front3:
   idol_id: 8
   text: ファンの方にありがとうを言える機会…そう考えると嬉しいです
+  voice: '/sound/3307602/7d45f6ca75f267dca3987a0e3795ffd3.mp4'
   tags:
     - front
     - plus
@@ -867,6 +916,7 @@ anniv_yellow_p_front3:
 anniv_yellow_p_front4:
   idol_id: 8
   text: えっ？　眼鏡…ですか…？
+  voice: '/sound/3307602/a1f90185ce4bc8e55971a08376dd19d7.mp4'
   tags:
     - front
     - plus
@@ -874,6 +924,7 @@ anniv_yellow_p_front4:
 anniv_yellow_p_front5:
   idol_id: 8
   text: ○○さんと一緒に歩んで行ければ嬉しいんです！」
+  voice: '/sound/3307602/a06a4917da281c7e068942b2003e3f4d.mp4'
   tags:
     - front
     - plus
@@ -881,6 +932,7 @@ anniv_yellow_p_front5:
 anniv_yellow_p_work1:
   idol_id: 8
   text: みんなが優しくなれるように♪
+  voice: '/sound/3307602/52986324e6d03efa9a97ef202f20682a.mp4'
   tags:
     - work
     - plus
@@ -888,6 +940,7 @@ anniv_yellow_p_work1:
 anniv_yellow_p_work2:
   idol_id: 8
   text: 笑顔でLIVEするとみんなも笑顔になってくれるんですよ♪
+  voice: '/sound/3307602/7d41794ce47adf13fe1f6dc49a8fcec5.mp4'
   tags:
     - work
     - plus
@@ -895,6 +948,7 @@ anniv_yellow_p_work2:
 anniv_yellow_p_work3:
   idol_id: 8
   text: みんなとなら、できますっ
+  voice: '/sound/3307602/aafe2d7feb2cf93e58c9d238194bc85f.mp4'
   tags:
     - work
     - plus
@@ -902,6 +956,7 @@ anniv_yellow_p_work3:
 anniv_yellow_p_work4:
   idol_id: 8
   text: みんなを笑顔にしたいですね
+  voice: '/sound/3307602/d82e855c150ad1594dc5ee69e8883c38.mp4'
   tags:
     - work
     - plus
@@ -909,6 +964,7 @@ anniv_yellow_p_work4:
 anniv_yellow_p_work5:
   idol_id: 8
   text: 私、まだまだ歌い足りないです！　もっとLIVEしたいなって！
+  voice: '/sound/3307602/1d1349e1868a9acaf7d94cd8a95a5c4f.mp4'
   tags:
     - work
     - plus
@@ -2063,7 +2119,7 @@ anniversary_endless_produce_7:
 
 anniversary_endless_produce_8:
   idol_id: 7
-  text:
+  text: ○○さんと一緒にお仕事に行くの､楽しみなんです♪
   tags:
     - anniversary
     - endless
@@ -2071,7 +2127,7 @@ anniversary_endless_produce_8:
 
 anniversary_endless_produce_9:
   idol_id: 7
-  text: ○○さんと一緒にお仕事に行くの､楽しみなんです♪
+  text: 帰り道も○○さんと一緒ですね♪
   tags:
     - anniversary
     - endless
@@ -2079,7 +2135,7 @@ anniversary_endless_produce_9:
 
 anniversary_endless_produce_10:
   idol_id: 7
-  text: 帰り道も○○さんと一緒ですね♪
+  text: ○○さんには､いつまでも私のファンでいてほしいです
   tags:
     - anniversary
     - endless
@@ -2087,7 +2143,7 @@ anniversary_endless_produce_10:
 
 anniversary_endless_produce_11:
   idol_id: 7
-  text: ○○さんには､いつまでも私のファンでいてほしいです
+  text: ○○さんがいてくれたから…安心して歌えました
   tags:
     - anniversary
     - endless
@@ -2095,7 +2151,7 @@ anniversary_endless_produce_11:
 
 anniversary_endless_produce_12:
   idol_id: 7
-  text: ○○さんがいてくれたから…安心して歌えました
+  text: LIVE終わったのに…実は私…まだドキドキしてるんです…えへ
   tags:
     - anniversary
     - endless
@@ -2103,7 +2159,7 @@ anniversary_endless_produce_12:
 
 anniversary_endless_produce_13:
   idol_id: 7
-  text: LIVE終わったのに…実は私…まだドキドキしてるんです…えへ
+  text: 終わっちゃうと…ちょっぴり寂しいです｡えへへ…
   tags:
     - anniversary
     - endless
@@ -2111,7 +2167,7 @@ anniversary_endless_produce_13:
 
 anniversary_endless_produce_14:
   idol_id: 7
-  text: 終わっちゃうと…ちょっぴり寂しいです｡えへへ…
+  text: みんなの笑顔を見るのが1番嬉しいです！
   tags:
     - anniversary
     - endless
@@ -2119,7 +2175,7 @@ anniversary_endless_produce_14:
 
 anniversary_endless_produce_15:
   idol_id: 7
-  text: みんなの笑顔を見るのが1番嬉しいです！
+  text: 少し肌寒いですね…でも､私は元気ですっ
   tags:
     - anniversary
     - endless
@@ -2127,7 +2183,7 @@ anniversary_endless_produce_15:
 
 anniversary_endless_produce_16:
   idol_id: 7
-  text: 少し肌寒いですね…でも､私は元気ですっ
+  text: ファンの人に喜んでもらえるアイドルに…私はなれたのかな？
   tags:
     - anniversary
     - endless
@@ -2135,7 +2191,7 @@ anniversary_endless_produce_16:
 
 anniversary_endless_produce_17:
   idol_id: 7
-  text: ファンの人に喜んでもらえるアイドルに…私はなれたのかな？
+  text: ふふっ､事務所のみんなとLIVE出来て…とてもいい思い出です
   tags:
     - anniversary
     - endless
@@ -2143,21 +2199,13 @@ anniversary_endless_produce_17:
 
 anniversary_endless_produce_18:
   idol_id: 7
-  text: ふふっ､事務所のみんなとLIVE出来て…とてもいい思い出です
-  tags:
-    - anniversary
-    - endless
-    - produce
-
-anniversary_endless_produce_19:
-  idol_id: 7
   text: 次は歌鈴ちゃんと春菜ちゃんとで女子会しようかなって
   tags:
     - anniversary
     - endless
     - produce
 
-anniversary_endless_produce_20:
+anniversary_endless_produce_19:
   idol_id: 7
   text: ○○さん…これからもプロデュースよろしくお願いします
   tags:
@@ -2936,7 +2984,7 @@ yurufuwa_p_work_5:
 
 hallomori_profile:
   idol_id: 11
-  text: 黒猫さん、ハロウィンらしい素敵な1枚をありがとうっ。こうして日々、少しずつ幸せを集めてると思えば、プロデューサーさんも心が暖かくなりませんか? いつか…幸せで心が溢れちゃうかも…♪
+  text: 黒猫さん、ハロウィンらしい素敵な1枚をありがとうっ。こうして日々、少しずつ幸せを集めてると思えば、○○さんも心が暖かくなりませんか? いつか…幸せで心が溢れちゃうかも…♪
   voice: '/sound/3409001/6b171e64dbce3a8ea3d5616601e58792.mp4'
   tags:
     - hallomori
@@ -2945,7 +2993,7 @@ hallomori_profile:
 
 hallomori_loveup:
   idol_id: 11
-  text: プロデューサーさん、一緒に1枚…あ、すみません、お仕事中に…
+  text: ○○さん、一緒に1枚…あ、すみません、お仕事中に…
   voice: '/sound/3409001/238314f1d43020bd8651e0b11a6413ef.mp4'
   tags:
     - hellomori
@@ -3008,7 +3056,7 @@ hallomori_front_4:
 
 hallomori_front_5:
   idol_id: 11
-  text: プロデューサーさんと、毎日小さな幸せを積み重ねてるみたい...
+  text: ○○さんと、毎日小さな幸せを積み重ねてるみたい...
   voice: '/sound/3409001/13c83d532da97aa6c5e41a5e19b26aa0.mp4'
   tags:
     - hellomori
@@ -3035,7 +3083,7 @@ hallomori_work_2:
 
 hallomori_work_3:
   idol_id: 11
-  text: 今日も一日、しっかり頑張りましょうね、プロデューサーさん
+  text: 今日も一日、しっかり頑張りましょうね、○○さん
   voice: '/sound/3409001/fa1c346c40119b9766229fca129f650c.mp4'
   tags:
     - hellomori
@@ -3053,7 +3101,7 @@ hallomori_work_4:
 
 hallomori_work_5:
   idol_id: 11
-  text: プロデューサーさんと一緒だったら、大変なお仕事も幸せですっ
+  text: ○○さんと一緒だったら、大変なお仕事も幸せですっ
   voice: '/sound/3409001/e062b4ff0ea234c8e14410a0a6bccebb.mp4'
   tags:
     - hellomori
@@ -3062,7 +3110,7 @@ hallomori_work_5:
 
 hallomori_p_profile:
   idol_id: 12
-  text: あっ、プロデューサーさん、今日の撮影は森の魔女風ですね。魔女って悪いイメージだけど、違うかも...って思うんです。だって...私が魔女だったら皆が笑顔になれる魔法を使いたいって思うから...
+  text: あっ、○○さん、今日の撮影は森の魔女風ですね。魔女って悪いイメージだけど、違うかも...って思うんです。だって...私が魔女だったら皆が笑顔になれる魔法を使いたいって思うから...
   voice: '/sound/3509002/0572d1194e6d99dea99fe2484c94ead7.mp4'
   tags:
     - hallomori
@@ -3082,7 +3130,7 @@ hallomori_p_loveup:
 
 hallomori_p_lovemax:
   idol_id: 12
-  text: 魔法が使えなくっても...ファンのみなさんや、スタッフさんや...みんなを幸せにしてあげたいな...。もちろん、プロデューサーさんも...
+  text: 魔法が使えなくっても...ファンのみなさんや、スタッフさんや...みんなを幸せにしてあげたいな...。もちろん、○○さんも...
   voice: '/sound/3509002/e454167721036cce63542aaff3e61671.mp4'
   tags:
     - hellomori
@@ -3142,7 +3190,7 @@ hallomori_p_front_4:
 
 hallomori_p_front_5:
   idol_id: 12
-  text: プロデューサーさんには幸せの魔法をかけてあげたいですねっ
+  text: ○○さんには幸せの魔法をかけてあげたいですねっ
   voice: '/sound/3509002/5ec8d6ba8faaeb39cc4090653505acd4.mp4'
   tags:
     - hellomori
@@ -3182,7 +3230,7 @@ hallomori_p_work_3:
 
 hallomori_p_work_4:
   idol_id: 12
-  text: きゃ...! プロデューサーさん、む、虫がついて...取ってくださいっ
+  text: きゃ...! ○○さん、む、虫がついて...取ってくださいっ
   voice: '/sound/3509002/708d20587865a99f752459da97a42fc0.mp4'
   tags:
     - hellomori
@@ -3192,7 +3240,7 @@ hallomori_p_work_4:
 
 hallomori_p_work_5:
   idol_id: 12
-  text: プロデューサーさんの笑顔は、私を幸せにする魔法ですよ
+  text: ○○さんの笑顔は、私を幸せにする魔法ですよ
   voice: '/sound/3509002/2ee97323e674c238baf0ced5b3bdb3b6.mp4'
   tags:
     - hellomori
@@ -3202,7 +3250,7 @@ hallomori_p_work_5:
 
 hallomori_episode_first_half_1:
   idol_id: 1
-  text: あら…プロデューサーさん、お疲れさまです。今日もいいお天気ですね…事務所に来るまでにお散歩してきちゃいました
+  text: あら…○○さん、お疲れさまです。今日もいいお天気ですね…事務所に来るまでにお散歩してきちゃいました
   voice: '/sound/9900014/eae08966a81417d698f22a9871841573.mp4'
   tags:
     - hellomori
@@ -3232,7 +3280,7 @@ hallomori_episode_first_half_3:
 
 hallomori_episode_first_half_4:
   idol_id: 1
-  text: これも、プロデューサーさんやみんなといっしょに、笑顔で過ごせているからかな…そう思います
+  text: これも、○○さんやみんなといっしょに、笑顔で過ごせているからかな…そう思います
   voice: '/sound/9900014/f08ab129b6bb5795e3611c56e4335477.mp4'
   tags:
     - hellomori
@@ -3262,7 +3310,7 @@ hallomori_episode_first_half_6:
 
 hallomori_episode_first_half_7:
   idol_id: 1
-  text: 私はやっぱり…プロデューサーさんの一面が知りたいですね。なんて、もし良かったら…ですけど
+  text: 私はやっぱり…○○さんの一面が知りたいですね。なんて、もし良かったら…ですけど
   voice: '/sound/9900014/f153aaffc9f1a223652910f06cce6c06.mp4'
   tags:
     - hellomori
@@ -3272,7 +3320,7 @@ hallomori_episode_first_half_7:
 
 hallomori_episode_second_half_1:
   idol_id: 11
-  text: ふふっ、プロデューサーさん、お疲れさまです。今日も素敵な笑顔ですね。
+  text: ふふっ、○○さん、お疲れさまです。今日も素敵な笑顔ですね。
   voice: '/sound/9900015/73c99533d15a4b2bf169b0efea813ded.mp4'
   tags:
     - hellomori
@@ -3332,7 +3380,7 @@ hallomori_episode_second_half_6:
 
 hallomori_episode_second_half_7:
   idol_id: 11
-  text: でも、もっともっと写真におさめたいものがいっぱいあります。たとえば…プロデューサーさんの、優しい眼差し…とか…
+  text: でも、もっともっと写真におさめたいものがいっぱいあります。たとえば…○○さんの、優しい眼差し…とか…
   voice: '/sound/9900015/5aefd5317ab475fde52ece63e2397428.mp4'
   tags:
     - hellomori
@@ -3559,14 +3607,14 @@ cdsr_p_work5:
 
 deremori_join1:
   idol_id: 15
-  text: 私を支えてくれるのは沢山のファンのみんなの声援と、プロデューサーさんの笑顔なんです。私…まだまだがんばれますっ
+  text: 私を支えてくれるのは沢山のファンのみんなの声援と、○○さんの笑顔なんです。私…まだまだがんばれますっ
   tags:
     - cinderella_dream
     - join
 
 deremori_join2:
   idol_id: 15
-  text: たくさんの人を笑顔にできるように…これからもプロデューサーさんと一緒にアイドル続けていきたいです
+  text: たくさんの人を笑顔にできるように…これからも○○さんと一緒にアイドル続けていきたいです
   tags:
     - cinderella_dream
     - join
@@ -3778,5 +3826,243 @@ deremori_p_work5:
   text: ○○さんとだから、こんなに幸せに歌えるんですよっ
   tags:
     - cinderella_dream
+    - work
+    - plus
+
+osanpo_profile:
+  idol_id: 17
+  text: ふふっ、ここはまだちょっと冷たいみたい。でも、もう春の陽気に包まれているから、この水の温度も気持ちいいですね…。○○さんも、いっしょにいかかですか?ほらっこっちっ
+  voice: '/sound/3413101/980e7c47a80a7ac51c89a5631c23cc07.mp4'
+  tags:
+    - osanpo
+    - profile
+
+osanpo_loveup:
+  idol_id: 17
+  text: ほら、○○さんも笑顔になります♪写真に収めたいな
+  voice: '/sound/3413101/6d8e360880e53775daf097fb81a0cffc.mp4'
+  tags:
+    - osanpo
+    - loveup
+
+osanpo_lovemax:
+  idol_id: 17
+  text: ○○さんとゆっくりできてよかったです。だって、またすぐに忙しくなりそうですし…でも、また来ましょうね
+  voice: '/sound/3413101/b100f3f98fbc7c5049aff7689ab45197.mp4'
+  tags:
+    - osanpo
+    - lovemax
+
+osanpo_leader:
+  idol_id: 17
+  text: え、もうお時間ですか?
+  voice: '/sound/3413101/abec6449c25adc96bd35ae530a5aa465.mp4'
+  tags:
+    - osanpo
+    - leader
+
+osanpo_front1:
+  idol_id: 17
+  text: ○○さんと一緒に幸せな時間がすごせて、嬉しいな…
+  voice: '/sound/3413101/798cd0552ebd72148838d104272e3823.mp4'
+  tags:
+    - osanpo
+    - front
+
+osanpo_front2:
+  idol_id: 17
+  text: 暖かいと、心も温かくなります
+  voice: '/sound/3413101/28a4d4d383c3c6349e6d2ad909a38fe6.mp4'
+  tags:
+    - osanpo
+    - front
+
+osanpo_front3:
+  idol_id: 17
+  text: 春はいいですね…幸せな季節♪
+  voice: 'sound/3413101/b36c117b7df512d15c538300e6cfbefb.mp4'
+  tags:
+    - osanpo
+    - front
+
+osanpo_front4:
+  idol_id: 17
+  text: きゃは☆…とか…お恥ずかしい
+  voice: '/sound/3413101/a02fb03d33ef806a4ae59d6935052d26.mp4'
+  tags:
+    - osanpo
+    - front
+
+osanpo_front5:
+  idol_id: 17
+  text: ○○さんといると、時間がすぎるのが早いみたいです
+  voice: '/sound/3413101/5c5bf26ea170ba7a87d8cff1e0bc71c9.mp4'
+  tags:
+    - osanpo
+    - front
+
+osanpo_work1:
+  idol_id: 17
+  text: スキップしたくなっちゃう気分♪
+  voice: '/sound/3413101/a8ecde815df06d734a831f69c8293e4d.mp4'
+  tags:
+    - osanpo
+    - work
+
+osanpo_work2:
+  idol_id: 17
+  text: ○○さんもスーツだからって遠慮しないでください、ほら
+  voice: '/sound/3413101/cf3d4e6437874aea4b6784dd6c037ff2.mp4'
+  tags:
+    - osanpo
+    - work
+
+osanpo_work3:
+  idol_id: 17
+  text: たまにはのんびりしませんか?
+  voice: '/sound/3413101/0660bffedc5742cfba7c8f89c5b051db.mp4'
+  tags:
+    - osanpo
+    - work
+
+osanpo_work4:
+  idol_id: 17
+  text: 弾むような声で歌いますから
+  voice: '/sound/3413101/e8a525e5c130b083e62eaf399b390f8d.mp4'
+  tags:
+    - osanpo
+    - work
+
+osanpo_work5:
+  idol_id: 17
+  text: もうお仕事の時間ですか? …でも、もう少しだけ…お願いっ
+  voice: '/sound/3413101/12246272eddf3c8c2b74561e382ebe48.mp4'
+  tags:
+    - osanpo
+    - work
+
+osanpo_p_profile:
+  idol_id: 18
+  text: 私を待ってくれるファンのみなさんに、春風みたいな歌声をお届けしたいな。○○さんも、見守ってくださいね。私きっと、みなさんの心に花を咲かせてきますから…いってきますっ
+  voice: '/sound/3513102/8136e60488f238d8ab26f220bf05c836.mp4'
+  tags:
+    - osanpo
+    - profile
+    - plus
+
+osanpo_p_loveup:
+  idol_id: 18
+  text: ○○さんみたいに、テキパキお仕事できたらいいのになぁ
+  voice: '/sound/3513102/30ecd52ab93581aa6a68dc9eb6d05967.mp4'
+  tags:
+    - osanpo
+    - loveup
+    - plus
+
+osanpo_p_lovemax:
+  idol_id: 18
+  text: 私の心には、もうとっくに春が来てるんです。だって、○○さんが太陽みたいな暖かい眼差しを注いでくれるから…
+  voice: '/sound/3513102/cc18371be0f32313d3d870025a3b61e2.mp4'
+  tags:
+    - osanpo
+    - lovemax
+    - plus
+
+osanpo_p_leader:
+  idol_id: 18
+  text: みなさん笑顔でいいですね
+  voice: '/sound/3513102/2d2c0b3852d316dfaf0c25ce8e818620.mp4'
+  tags:
+    - osanpo
+    - leader
+    - plus
+
+osanpo_p_front1:
+  idol_id: 18
+  text: 春はいいですね…幸せな季節♪
+  voice: '/sound/3513102/2d2c0b3852d316dfaf0c25ce8e818620.mp4'
+  tags:
+    - osanpo
+    - front
+    - plus
+
+osanpo_p_front2:
+  idol_id: 18
+  text: お花は詳しくないですけど、見てると華やかだから好きですね
+  voice: '/sound/3513102/ab2e245dc5d121dd667f127918599321.mp4'
+  tags:
+    - osanpo
+    - front
+    - plus
+
+osanpo_p_front3:
+  idol_id: 18
+  text: 暖かいと、心も温かくなります
+  voice: '/sound/3513102/1e92f1f6da6b9f8f69ca62b39d2d3a7e.mp4'
+  tags:
+    - osanpo
+    - front
+    - plus
+
+osanpo_p_front4:
+  idol_id: 18
+  text: アイドルらしい衣装、ドキドキですね
+  voice: '/sound/3513102/d38670a1fe2622e60c7995a138c3e2cb.mp4'
+  tags:
+    - osanpo
+    - front
+    - plus
+
+osanpo_p_front5:
+  idol_id: 18
+  text: ふぅ…あ、○○さん。ぼんやりしてました。つい、幸せで
+  voice: '/sound/3513102/ef72af311d3ae308cd977c69d55b0bdf.mp4'
+  tags:
+    - osanpo
+    - front
+    - plus
+
+osanpo_p_work1:
+  idol_id: 18
+  text: 弾むような声で歌いますから
+  voice: '/sound/3513102/33cbe681230227aaf2b9ad65799763c4.mp4'
+  tags:
+    - osanpo
+    - work
+    - plus
+
+osanpo_p_work2:
+  idol_id: 18
+  text: たまにはキリっとしてみますっ
+  voice: '/sound/3513102/559d4454b61eee93a60ae4ab006f6934.mp4'
+  tags:
+    - osanpo
+    - work
+    - plus
+
+osanpo_p_work3:
+  idol_id: 18
+  text: ファンのみなさんに、春っぽいトークを…あっ、MC長くなっちゃう…?
+  voice: '/sound/3513102/ef07612cb4fa6134b419342dc956cb3a.mp4'
+  tags:
+    - osanpo
+    - work
+    - plus
+
+osanpo_p_work4:
+  idol_id: 18
+  text: スキップしたくなっちゃう気分♪
+  voice: '/sound/3513102/34bc06aac7e08f478471b7411357b976.mp4'
+  tags:
+    - osanpo
+    - work
+    - plus
+
+osanpo_p_work5:
+  idol_id: 18
+  text: はぁ…あっ、○○さん…ごめんなさい、私また幸せで…
+  voice: '/sound/3513102/409c1b3c0ba8a19b46b637c977f28ea4.mp4'
+  tags:
+    - osanpo
     - work
     - plus

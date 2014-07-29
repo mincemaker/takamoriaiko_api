@@ -386,10 +386,10 @@ deremori:
   love_max: 40
   cost: 11
   transfer_money: N/A
-  min_atk: N/A
-  min_def: N/A
-  max_atk: 13800
-  max_def: 8800
+  min_atk: 5520
+  min_def: 3520
+  max_atk: 14490
+  max_def: 9240
 
 deremori_p:
   id: 16
@@ -412,8 +412,60 @@ deremori_p:
   love_max: 300
   cost: 11
   transfer_money: N/A
-  min_atk: N/A
-  min_def: N/A
+  min_atk: 6624
+  min_def: 4224
   max_atk: 21942
   max_def: 13992
+
+osanpo:
+  id: 17
+  name: "[おさんぽ日和] 高森藍子"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: 思い出の一枚 (全タイプの攻守 大〜特大アップ)
+  rarity: SR+
+  level_max: 70
+  love_max: 300
+  cost: 11
+  transfer_money: N/A
+  min_atk: 3560
+  min_def: 3530
+  max_atk: 9345
+  max_def: 9293
+
+osanpo_p:
+  id: 18
+  name: "[おさんぽ日和] 高森藍子+"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: 思い出の一枚 (全タイプの攻守 特大〜絶大アップ)
+  rarity: SR+
+  level_max: 70
+  love_max: 300
+  cost: 11
+  transfer_money: N/A
+  min_atk: 4272
+  min_def: 4248
+  max_atk: 14152
+  max_def: 14073
 
