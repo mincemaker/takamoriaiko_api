@@ -3629,6 +3629,7 @@ deremori_profile:
 deremori_loveup:
   idol_id: 15
   text: 一緒にお仕事してると楽しくて…気分がよくなっちゃいますね
+  voice: '/sound/3411301/2bed714fd1752ad6750633da7a668585.mp4'
   tags:
     - cinderella_dream
     - loveup
@@ -3636,6 +3637,7 @@ deremori_loveup:
 deremori_lovemax:
   idol_id: 15
   text: ○○さんには感謝してるんです。私を信じてプロデュースしてくれたんですもの。…いつかきっと、お返ししますから
+  voice: '/sound/3411301/2de39558eb57ac580b48404e0f1a10f6.mp4'
   tags:
     - cinderella_dream
     - lovemax
@@ -3643,6 +3645,7 @@ deremori_lovemax:
 deremori_leader:
   idol_id: 15
   text: 私もきらきら輝けるかな?
+  voice: '/sound/3411301/c9cbb7d7a4ccc1d38cc5a9013c7a4388.mp4'
   tags:
     - cinderella_dream
     - leader
@@ -3650,6 +3653,7 @@ deremori_leader:
 deremori_front1:
   idol_id: 15
   text: 笑顔なら幸せがやってきますよ
+  voice: '/sound/3411301/ceb92f902d751bef68f87cc983d12e52.mp4'
   tags:
     - cinderella_dream
     - front
@@ -3657,6 +3661,7 @@ deremori_front1:
 deremori_front2:
   idol_id: 15
   text: 夢はささやかでも、幸せですっ
+  voice: '/sound/3411301/8f2ead878f23a30b7293654cf6d1835e.mp4'
   tags:
     - cinderella_dream
     - front
@@ -3664,6 +3669,7 @@ deremori_front2:
 deremori_front3:
   idol_id: 15
   text: みんな仲良く、大事なことです
+  voice: '/sound/3411301/3cbfb42cefacf89398907d94a13afc51.mp4'
   tags:
     - cinderella_dream
     - front
@@ -3671,6 +3677,7 @@ deremori_front3:
 deremori_front4:
   idol_id: 15
   text: お散歩とティータイム、心がほっこりする秘訣です。オススメですよ♪
+  voice: '/sound/3411301/7a3ed1e6860679ca4b7ef65bc710bfd5.mp4'
   tags:
     - cinderella_dream
     - front
@@ -3678,6 +3685,7 @@ deremori_front4:
 deremori_front5:
   idol_id: 15
   text: ○○さんと一緒に…優しい気持ちになれたらいいな
+  voice: '/sound/3411301/088dd363dfd67786849276b0dd40dd8d.mp4'
   tags:
     - cinderella_dream
     - front
@@ -3685,6 +3693,7 @@ deremori_front5:
 deremori_work1:
   idol_id: 15
   text: 今日もいいお仕事しましょうね
+  voice: '/sound/3411301/ab11d83522e85105530e6d043d77ab20.mp4'
   tags:
     - cinderella_dream
     - work
@@ -3692,6 +3701,7 @@ deremori_work1:
 deremori_work2:
   idol_id: 15
   text: お散歩したいな…あ、衣装…
+  voice: '/sound/3411301/c08625eeedb04b5a0610bc56d2ee13d5.mp4'
   tags:
     - cinderella_dream
     - work
@@ -3699,6 +3709,7 @@ deremori_work2:
 deremori_work3:
   idol_id: 15
   text: ゆっくりでも、いいんですよ?
+  voice: '/sound/3411301/2fe3af0d9d9914a11c3d172eecd0a21c.mp4'
   tags:
     - cinderella_dream
     - work
@@ -3706,6 +3717,7 @@ deremori_work3:
 deremori_work4:
   idol_id: 15
   text: 誰かの特別もいいけど、みんなの笑顔のためにがんばりたいな
+  voice: '/sound/3411301/2f0b4709ccd1ff54cd02f975efac8d80.mp4'
   tags:
     - cinderella_dream
     - work
@@ -3713,13 +3725,15 @@ deremori_work4:
 deremori_work5:
   idol_id: 15
   text: 頑張った自分を褒めていいんですよ。私も褒めますから。ふふっ
+  voice: '/sound/3411301/787992c23d31b27c668b61454db9b133.mp4'
   tags:
     - cinderella_dream
     - work
 
 deremori_p_profile:
   idol_id: 16
-  text: アイドルになって本当に良かったって、今、心からそう思えます。ファンのみなさんが優しい気持ちになれるような、微笑んでくれるようなアイドルに一歩近づけたって思うから…！
+  text: 夢は見るものじゃなくて､叶えるものですよね｡でも､幸せな夢ならずっと見ていたいな…｡ファンのみなさんにもそう思ってもらえるように､夢のステージで輝いてきますね! ○○さん!
+  voice: '/sound/3511302/927ff6fecd2522257798ed90ed4d5976.mp4'
   tags:
     - cinderella_dream
     - profile
@@ -3727,7 +3741,8 @@ deremori_p_profile:
 
 deremori_p_loveup:
   idol_id: 16
-  text: ○○さんと過ごす毎日が、私の宝物ですっ
+  text: ○○さんとだからできること、きっとありますよ
+  voice: '/sound/3511302/acfab37c6704e9082678d73f8f98f0ad.mp4'
   tags:
     - cinderella_dream
     - loveup
@@ -3735,7 +3750,8 @@ deremori_p_loveup:
 
 deremori_p_lovemax:
   idol_id: 16
-  text: ○○さん､これからも二人で幸せをつくっていきましょうねっ！ …って､あ…あの､深い意味は無いですからねっ！？
+  text: 私、いま幸せです。でも○○さんにはワガママ言っちゃうかも…。だって私、もっと輝きたいです…これからも、ずっと…!
+  voice: '/sound/3511302/e93a82bf40978ebd240687ae2c01b6a3.mp4'
   tags:
     - cinderella_dream
     - lovemax
@@ -3743,7 +3759,8 @@ deremori_p_lovemax:
 
 deremori_p_leader:
   idol_id: 16
-  text: もっとのんびりしましょ♪
+  text: 夢みてた…ステージへっ
+  voice: '/sound/3511302/d759bbf2acf2ffebb66b8143c1ddfb1f.mp4'
   tags:
     - cinderella_dream
     - leader
@@ -3751,7 +3768,8 @@ deremori_p_leader:
 
 deremori_p_front1:
   idol_id: 16
-  text: みんなの笑顔が見たいなっ
+  text: 幸せな人を見てるのが、私の幸せなんです。…変ですか? ふふっ
+  voice: '/sound/3511302/cf0a00d95867d6565da2ea8e4fe7e5e6.mp4'
   tags:
     - cinderella_dream
     - front
@@ -3759,7 +3777,8 @@ deremori_p_front1:
 
 deremori_p_front2:
   idol_id: 16
-  text: この気持ち、届いてますか？
+  text: 笑顔なら幸せがやってきますよ
+  voice: '/sound/3511302/87b73ce002d0b36c68c29ecd1cbeac55.mp4'
   tags:
     - cinderella_dream
     - front
@@ -3767,7 +3786,8 @@ deremori_p_front2:
 
 deremori_p_front3:
   idol_id: 16
-  text: うふふ、ステージからみんなの笑顔が見えてますよっ
+  text: ティータイムにしませんか? ねっ
+  voice: '/sound/3511302/fdc9b0fbacbd393bc3f14dc84968ca44.mp4'
   tags:
     - cinderella_dream
     - front
@@ -3775,7 +3795,8 @@ deremori_p_front3:
 
 deremori_p_front4:
   idol_id: 16
-  text: 優しい気持ちになれる曲です♪
+  text: 夢はささやかでも、幸せですっ
+  voice: '/sound/3511302/fe0175d9e70a42d80d4fb567c50fa53d.mp4'
   tags:
     - cinderella_dream
     - front
@@ -3783,7 +3804,8 @@ deremori_p_front4:
 
 deremori_p_front5:
   idol_id: 16
-  text: ○○さんもほらっ､いっしょに笑ってください♪
+  text: ○○さんの見せてくれる夢が、私の夢になればいいな
+  voice: '/sound/3511302/f166dd155ad4cce6a458993a23466881.mp4'
   tags:
     - cinderella_dream
     - front
@@ -3791,7 +3813,8 @@ deremori_p_front5:
 
 deremori_p_work1:
   idol_id: 16
-  text: 今、とっても幸せです！
+  text: 今日もいいお仕事しましょうね
+  voice: '/sound/3511302/c5ecc5b72a948ddea9ab438a4f69735f.mp4'
   tags:
     - cinderella_dream
     - work
@@ -3799,7 +3822,8 @@ deremori_p_work1:
 
 deremori_p_work2:
   idol_id: 16
-  text: 座って歌っていたら、しっかりみんなの顔が見えますね
+  text: お散歩したいな…あ、衣装…
+  voice: '/sound/3511302/fe0175d9e70a42d80d4fb567c50fa53d.mp4'
   tags:
     - cinderella_dream
     - work
@@ -3807,7 +3831,8 @@ deremori_p_work2:
 
 deremori_p_work3:
   idol_id: 16
-  text: ゆっくり聞いてほしいな
+  text: 私の想い、ファンの方にきっと届けますからね、○○さん
+  voice: '/sound/3511302/256a4fc59bd5e276a45cceb8d6d0948f.mp4'
   tags:
     - cinderella_dream
     - work
@@ -3815,7 +3840,8 @@ deremori_p_work3:
 
 deremori_p_work4:
   idol_id: 16
-  text: ゆっくり…し過ぎですか？
+  text: 今日も明日も特別なんですっ
+  voice: '/sound/3511302/14af34cd073f39aea0ce95868b1d2d3d.mp4'
   tags:
     - cinderella_dream
     - work
@@ -3823,7 +3849,8 @@ deremori_p_work4:
 
 deremori_p_work5:
   idol_id: 16
-  text: ○○さんとだから、こんなに幸せに歌えるんですよっ
+  text: ○○さんが私のプロデューサーでよかったって、思ってます
+  voice: '/sound/3511302/be186b5419c8958747ceedc5ccf4b0e8.mp4'
   tags:
     - cinderella_dream
     - work

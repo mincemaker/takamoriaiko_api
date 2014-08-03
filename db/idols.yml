@@ -385,7 +385,7 @@ deremori:
   level_max: 60
   love_max: 40
   cost: 11
-  transfer_money: N/A
+  transfer_money: 10950
   min_atk: 5520
   min_def: 3520
   max_atk: 14490
@@ -411,7 +411,7 @@ deremori_p:
   level_max: 70
   love_max: 300
   cost: 11
-  transfer_money: N/A
+  transfer_money: 16425
   min_atk: 6624
   min_def: 4224
   max_atk: 21942
@@ -437,7 +437,7 @@ osanpo:
   level_max: 70
   love_max: 300
   cost: 11
-  transfer_money: N/A
+  transfer_money: 10800
   min_atk: 3560
   min_def: 3530
   max_atk: 9345
@@ -463,7 +463,7 @@ osanpo_p:
   level_max: 70
   love_max: 300
   cost: 11
-  transfer_money: N/A
+  transfer_money: 16200
   min_atk: 4272
   min_def: 4248
   max_atk: 14152
