@@ -276,7 +276,7 @@ hallomori:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name: やさしい魔法 (全タイプのフロントメンバー及びバックメンバー上位1人の攻守特大ダウン)
-  rarity: SR+
+  rarity: SR
   level_max: 60
   love_max:  40
   cost: 18
@@ -384,7 +384,7 @@ deremori:
   rarity: SR
   level_max: 60
   love_max: 40
-  cost: 11
+  cost: 19
   transfer_money: 10950
   min_atk: 5520
   min_def: 3520
@@ -410,7 +410,7 @@ deremori_p:
   rarity: SR+
   level_max: 70
   love_max: 300
-  cost: 11
+  cost: 19
   transfer_money: 16425
   min_atk: 6624
   min_def: 4224
@@ -436,7 +436,7 @@ osanpo:
   rarity: SR+
   level_max: 70
   love_max: 300
-  cost: 11
+  cost: 16
   transfer_money: 10800
   min_atk: 3560
   min_def: 3530
@@ -462,7 +462,7 @@ osanpo_p:
   rarity: SR+
   level_max: 70
   love_max: 300
-  cost: 11
+  cost: 16
   transfer_money: 16200
   min_atk: 4272
   min_def: 4248
