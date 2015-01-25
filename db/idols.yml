@@ -433,9 +433,9 @@ osanpo:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name: 思い出の一枚 (全タイプの攻守 大〜特大アップ)
-  rarity: SR+
-  level_max: 70
-  love_max: 300
+  rarity: SR
+  level_max: 60
+  love_max: 40
   cost: 16
   transfer_money: 10800
   min_atk: 3560
@@ -468,4 +468,56 @@ osanpo_p:
   min_def: 4248
   max_atk: 14152
   max_def: 14073
+
+magokoro:
+  id: 19 
+  name: "[まごころプレゼント] 高森藍子"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: 思い出の一枚 (全タイプの攻守 特大〜絶大アップ)
+  rarity: SR+
+  level_max: 60
+  love_max: 40
+  cost: 20
+  transfer_money: 11000
+  min_atk: 5980
+  min_def: 4260
+  max_atk: 15698
+  max_def: 11183
+
+magokoro_p:
+  id: 20 
+  name: "[まごころプレゼント] 高森藍子+"
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: 思い出の一枚 (全タイプの攻守 特大〜絶大アップ)
+  rarity: SR+
+  level_max: 70
+  love_max: 300
+  cost: 20
+  transfer_money: 11000
+  min_atk: 
+  min_def: 
+  max_atk: 23771
+  max_def: 16935
 
