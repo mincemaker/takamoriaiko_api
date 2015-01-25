@@ -485,7 +485,7 @@ magokoro:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name: 思い出の一枚 (全タイプの攻守 特大〜絶大アップ)
-  rarity: SR+
+  rarity: SR
   level_max: 60
   love_max: 40
   cost: 20
@@ -520,4 +520,29 @@ magokoro_p:
   min_def: 
   max_atk: 23771
   max_def: 16935
+
+petit_aiko:
+  id: 21
+  age: 16
+  height: 155
+  weight: 42
+  bust: 74
+  waist: 60
+  hip: 79
+  birthday: 7/25
+  zodiac: 獅子座
+  blood_type: O
+  hand: 右
+  hometown: 東京
+  hobby: 近所の公園をお散歩
+  skill_name: nil
+  rarity: nil
+  level_max: nil
+  love_max: nil
+  cost: nil
+  transfer_money: nil
+  min_atk: nil
+  min_def: nil
+  max_atk: nil
+  max_def: nil
 

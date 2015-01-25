@@ -4577,3 +4577,204 @@ magokoro_second_half_all:
     - episode
     - second_half
 
+petit_top_1:
+  idol_id: 21
+  text: アイドルらしい子じゃないかもしれません…。でも私、頑張ってみます。そう決めましたから
+  tags:
+    - petit
+    - top
+
+petit_top_2:
+  idol_id: 21
+  text: いつもお疲れさまです、プロデューサーさん。ちょっとだけ休憩にしませんか?
+  tags:
+    - petit
+    - top
+
+petit_top_3:
+  idol_id: 21
+  text: いろいろと教えてください。プロデューサーさん。アイドルらしくなるためにも
+  tags:
+    - petit
+    - top
+
+petit_top_4:
+  idol_id: 21
+  text: どんな事をするのか、楽しみで…期待で胸がそわそわしてるんですっ
+  tags:
+    - petit
+    - top
+
+petit_top_5:
+  idol_id: 21
+  text: レッスンについていくのは大変です…なによりも、私にはテンポが早すぎて…
+  tags:
+    - petit
+    - top
+
+petit_top_6:
+  idol_id: 21
+  text: レッスンは真剣に…でも、なかなか慣れなくて。これじゃいけませんね
+  tags:
+    - petit
+    - top
+
+petit_top_7:
+  idol_id: 21
+  text: 気分転換をするのに、お散歩はもってこいですよ。新しい発見もありますし
+  tags:
+    - petit
+    - top
+
+petit_top_8:
+  idol_id: 21
+  text: 今日はどんな素敵なことがあるのかな…私、とっても楽しみなんです
+  tags:
+    - petit
+    - top
+
+petit_top_9:
+  idol_id: 21
+  text: 私みたいな子が、本当にできるのかな…? プロデューサー、大丈夫でしょうか
+  tags:
+    - petit
+    - top
+
+petit_top_10:
+  idol_id: 21
+  text: 失敗しても落ち込むのは無しにしようと思うんです。オーディションも、いつか受かりますよね
+  tags:
+    - petit
+    - top
+
+petit_top_11:
+  idol_id: 21
+  text: 天気がいい日は、お部屋の中にいたらもったいないと思いませんか♪
+  tags:
+    - petit
+    - top
+
+petit_top_12:
+  idol_id: 21
+  text: いろんなダンスをレッスンしましたけど、やっぱり私はゆったりしたダンスが好きですね…
+  tags:
+    - petit
+    - top
+    - dance
+
+petit_top_13:
+  idol_id: 21
+  text: 激しいダンスをカッコよくは…まだ難しいです。いつか、踊れるようになるでしょうか
+  tags:
+    - petit
+    - top
+    - daance
+
+petit_top_14:
+  idol_id: 21
+  text: ……むぅ。…ダメみたいです。やっぱりプロデューサーさんに怒る演技は難しいみたい…
+  tags:
+    - petit
+    - top
+    - visual
+
+petit_top_15:
+  idol_id: 21
+  text: ふふっ。この気持ちですね。幸せな感情を表現するのは、とっても簡単ですっ
+  tags:
+    - petit
+    - top
+    - visual
+
+petit_top_16:
+  idol_id: 21
+  text: みなさんを優しい気持ちになる歌を歌いたいです。ヴォーカルレッスン、お願いしますっ!
+  tags:
+    - petit
+    - top
+    - vocal
+
+petit_top_17:
+  idol_id: 21
+  text: ふふっ、お散歩してても口ずさんでたんです。早くステージで思い切り歌いたいなぁ
+  tags:
+    - petit
+    - top
+    - vocal
+
+petit_top_18:
+  idol_id: 21
+  text: アイドルらしくないですから…性格も、体型も…自信なんて、ないんです。でも、きっと…
+  tags:
+    - petit
+    - top
+
+petit_top_19:
+  idol_id: 21
+  text: お散歩もウォーキングみたいにトレーニングになるんでしょうか? だったらいいなあ…
+  tags:
+    - petit
+    - top
+
+petit_top_20:
+  idol_id: 21
+  text: カメラはお好きですか? 私は好きで…いろいろ撮ったりします。ねこさんとか♪
+  tags:
+    - petit
+    - top
+
+petit_top_21:
+  idol_id: 21
+  text: まだまだ満足な結果は出せていませんけど、ほめてもらえると嬉しいです。ダメですね…
+  tags:
+    - petit
+    - top
+
+petit_top_22:
+  idol_id: 21
+  text: 悪いところがあったら直します。だから、教えてください。どんなことでも
+  tags:
+    - petit
+    - top
+
+petit_top_23:
+  idol_id: 21
+  text: 競うのはあまり好きじゃないんです…みんなで仲良くする方が好きだから
+  tags:
+    - petit
+    - top
+
+petit_top_24:
+  idol_id: 21
+  text: 事務所は、みんなの笑顔がいっぱいで、私も大好きな場所になりました
+  tags:
+    - petit
+    - top
+
+petit_top_25:
+  idol_id: 21
+  text: アイドルになってから、毎日が楽しいです。この優しくて幸せな時間が続くといいなぁ…
+  tags:
+    - petit
+    - top
+
+petit_top_26:
+  idol_id: 21
+  text: オーディションで演技をしたんですけど、ふんわりとしたイメージがピッタリってほめてもらいましたっ
+  tags:
+    - petit
+    - top
+petit_top_27:
+  idol_id: 21
+  text: お散歩していて、新しいお店を見つけたんです。今度時間があるときに、入ってみようかな
+  tags:
+    - petit
+    - top
+petit_top_2:
+  idol_id: 21
+  text:
+  tags:
+    - petit
+    - top
+    - base_lesson
+
