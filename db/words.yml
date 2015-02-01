@@ -4417,3 +4417,163 @@ magokoro_p_work5:
     - work
     - voice
 
+magokoro_first_half_1:
+  idol_id: 7
+  text: はぁ……プロデューサーさん､もういつの間にか､季節は冬になっていますね｡師走ですけど､あいかわらずお忙しいですか?
+  voice: '/sound/9900168/2a1137b65e1a0f2e4cacebe4e7cc8a9b.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - first_half
+
+magokoro_first_half_2:
+  idol_id: 7
+  text: あんまり働き詰めないように､ゆっくり休みながらお仕事してくださいね｡私たちのためなのは､わかってますから｡
+  voice: '/sound/9900168/9d0d739d4c8744aacf5ed13dcaec7742.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - first_half
+
+magokoro_first_half_3:
+  idol_id: 7
+  text: そうそう､今日すこし時間があったので街を散歩してきたんです｡クリスマスらしく飾り付けてあって､とっても賑やかでしたよ｡
+  voice: '/sound/9900168/72687bde234a9d1c68a45a4397f1b51c.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - first_half
+
+magokoro_first_half_4:
+  idol_id: 7
+  text: あと､路地裏に新しい雑貨屋さんを見つけたんです｡ここの部屋より狭い､小さな小さなお店なんですけど……｡
+  voice: '/sound/9900168/a23d0042591518f6ca210dc202c8b44d.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - first_half
+
+magokoro_first_half_5:
+  idol_id: 7
+  text: そこで､輸入物のクリスマス雑貨がいっぱい飾ってあったんです｡一個一個のオーナメントが手作りらしくて､表情も違っていて……｡
+  voice: '/sound/9900168/4af73ad7183d9a05ebdb881c6c9f1d39.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - first_half
+
+magokoro_first_half_6:
+  idol_id: 7
+  text: 見つめていると､なんだか童話の世界に紛れ込んじゃったみたいで､とっても幸せな気分になれるお店だったんですよ～｡
+  voice: '/sound/9900168/7ce12bd2fdc21926a347ad9e5137d94d.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - first_half
+
+magokoro_first_half_7:
+  idol_id: 7
+  text: あっ､私ばっかりお話しちゃって､すみません……｡クリスマスですから､プロデューサーさんにも､幸せをおすそ分けしたくて♪
+  voice: '/sound/9900168/cfafcf625b0b33f0a3d6fdb9d911b15f.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - first_half
+
+magokoro_first_half_all:
+  idol_id: 7
+  text: '注釈: 思い出エピソード前半分のセリフ全部です '
+  voice: '/sound/3419801/9971cde560ed8711d03efe39e2f52dd6.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - first_half
+
+magokoro_second_half_1:
+  idol_id: 19
+  text: この星は……星といったら､やっぱり未央ちゃんかな? きらきら輝いて､みんなを笑顔にするｽﾀｰにぴったり｡
+  voice: '/sound/9900169/5d7131d9ae11d5291f51ed76661a3325.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - second_half
+
+magokoro_second_half_2:
+  idol_id: 19
+  text: こっちのジンジャークッキーは……やっぱり､かな子ちゃん……よりも､茜ちゃんかなぁ? いつもたくさんご飯食べてるし｡ふふっ｡
+  voice: '/sound/9900169/d7a0e4626405206142c58efd7be9c80f.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - second_half
+
+magokoro_second_half_3:
+  idol_id: 19
+  text: プレゼントを選ぶのって､とっても楽しいなぁ……｡きっと､もらうみんなよりも､私のほうが楽しんじゃってるかも……えへっ｡
+  voice: '/sound/9900169/30c9bd21e6641f999b7d3bbbd5264430.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - second_half
+
+magokoro_second_half_4:
+  idol_id: 19
+  text: あ､店員さん､いろいろ広げちゃってすみません｡お店のスペースまで貸してもらって｡でも､その分素敵なプレゼントになりそうです｡
+  voice: '/sound/9900169/1412cee799d7bfd0ed8aaeeb40e2885d.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - second_half
+
+magokoro_second_half_5:
+  idol_id: 19
+  text: さて……みんなへのプレゼントはこのくらいかな? あ､金のキノコのオーナメントだ｡これは､輝子ちゃん……喜んでくれるかなぁ? ふふ｡
+  voice: '/sound/9900169/0478953bf640b3a876c353154cb53ead.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - second_half
+
+magokoro_second_half_6:
+  idol_id: 19
+  text: ほんとうに､みんなへのプレゼントはこれくらいにして､と……｡本命のプレゼントを選ばなくっちゃ｡でも､もう決まってるかな……｡
+  voice: '/sound/9900169/8a9aee61ca482d2a8597509606f2ea36.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - second_half
+
+magokoro_second_half_7:
+  idol_id: 19
+  text: 大切な人へのプレゼントは､気持ちを込めて……｡クリスマスだから､たくさんのありがとうの想い出を込めて､贈りたいな……♪
+  voice: '/sound/9900169/42451fcff6e3ed3bab8378cc96a1390f.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - second_half
+
+magokoro_second_half_all:
+  idol_id: 19
+  text: '注釈: 思い出エピソード後半分のセリフ全部です '
+  voice: '/sound/3419801/67ea141ee72de058fa2c9901893311d2.mp4'
+  tags:
+    - magokoro
+    - voice
+    - episode
+    - second_half
+
