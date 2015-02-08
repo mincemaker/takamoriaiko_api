@@ -470,7 +470,7 @@ osanpo_p:
   max_def: 14073
 
 magokoro:
-  id: 19 
+  id: 19
   name: "[まごころプレゼント] 高森藍子"
   age: 16
   height: 155
@@ -485,7 +485,7 @@ magokoro:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name: 思い出の一枚 (全タイプの攻守 特大〜絶大アップ)
-  rarity: SR+
+  rarity: SR
   level_max: 60
   love_max: 40
   cost: 20
@@ -496,7 +496,7 @@ magokoro:
   max_def: 11183
 
 magokoro_p:
-  id: 20 
+  id: 20
   name: "[まごころプレゼント] 高森藍子+"
   age: 16
   height: 155
