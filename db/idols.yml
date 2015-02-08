@@ -68,7 +68,7 @@ valemorisan:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name:
-  rarity: R
+  rarity: N
   level_max: 20
   love_max: 20
   cost: 10
@@ -94,7 +94,7 @@ valemorisan_plus:
   hometown: 東京
   hobby: 近所の公園をお散歩
   skill_name:
-  rarity: R+
+  rarity: N+
   level_max: 30
   love_max: 100
   cost: 10
