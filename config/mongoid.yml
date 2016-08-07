@@ -1,5 +1,5 @@
 production: 
-  sessions: 
+  clients: 
     default: 
       uri: <%= ENV['MONGOLAB_URI'] %>
       options:
@@ -7,7 +7,7 @@ production:
         retry_interval: 1
         timeout: 30
 development:
-  sessions:
+  clients:
     default:
       database: takamoriaiko_api_development
       hosts:
@@ -15,7 +15,7 @@ development:
       options:
   options:
 test:
-  sessions:
+  clients:
     default:
       database: takamoriaiko_api_test
       hosts:
